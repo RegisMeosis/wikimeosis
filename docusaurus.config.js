@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/logo-meosis.svg', //logo dans l'onglet du site
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://wiki.meosis.fr',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -68,13 +68,13 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Wiki meosis',
+        title: 'Meosis',
         logo: {
           alt: 'Logo du site',
           src: 'img/logo-meosis.svg',
         },
         items: [
-          {to: '/docs/category/découvrir-jerico', label: 'Vitrine', position: 'left'}, //topbar
+          {to: '/docs/category/découvrir-jerico', label: 'Découvrire', position: 'left'}, //topbar
           {
             href: 'https://www.meosis.fr/',
             label: 'Meosis',

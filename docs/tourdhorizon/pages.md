@@ -36,4 +36,3 @@ Pour en savoir plus sur Elementor, l’outil de construction de pages, rendez-vo
 ### Créer une nouvelle page
 
 Les étapes pour créer et ajouter une page à votre site.
-```

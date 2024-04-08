@@ -15,7 +15,7 @@ Qu'est-ce que l'outil Jerico ?
 
 **JERICO 4.0**
 
-Jerico est un outil simplifié pour vous permettre de modifier votre site web.
+Jerico est un outil simplifié pour vous permettre de modifier votre site web !
 
 Conçu par les équipes techniques de Meosis, Jerico est un outil qui vous permet de modifier simplement le contenu (textes et photos) de votre site internet. Vous y retrouverez aussi toutes les informations utiles pour suivre les performances de votre site.
 

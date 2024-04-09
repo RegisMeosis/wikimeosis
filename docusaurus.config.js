@@ -99,22 +99,12 @@ const config = {
         // Facultatif : voir la section doc ci-dessous
         contextualSearch: true,
   
-        // Facultatif : Spécifiez les domaines où la navigation doit se faire par window.location au lieu de history.push. Utile lorsque notre configuration Algolia explore plusieurs sites de documentation et que nous voulons naviguer vers eux avec window.location.href.
-        // externalUrlRegex: 'external\\.com|domain\\.com',
-  
-        // // Facultatif : Remplace certaines parties des URL des éléments d'Algolia. Utile lorsque vous utilisez le même index de recherche pour de multiples déploiements en utilisant une Url de base différente. Vous pouvez utiliser regexp ou string dans le paramètre `from`. Par exemple : localhost:3000 vs myCompany.com/docs
-        // replaceSearchResultPathname: {
-          // from: '/docs/', // or as RegExp: /\/docs\//
-          // to: '/',
-        // },
-  
         // Facultatif : paramètres de recherche de Algolia
         // searchParameters: {},
   
         // Facultatif : chemin pour la page de recherche qui est activée par défaut (`false` pour le désactiver)
         searchPagePath: 'search',
-  
-        //... autres paramètres de Algolia
+
       },
 
       footer: {

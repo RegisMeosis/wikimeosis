@@ -74,7 +74,7 @@ const config = {
           src: 'img/logo-meosis.svg',
         },
         items: [
-          {to: '/docs/category/découvrir-jerico', label: 'Découvrire', position: 'left'}, //topbar
+          {to: '/docs/category/découvrir-jerico', label: 'Découvrir', position: 'left'}, //topbar
           {
             href: 'https://www.meosis.fr/',
             label: 'Meosis',

@@ -34,6 +34,7 @@ const config = {
     locales: ['fr'],
   },
 
+
   presets: [
     [
       'classic',
@@ -64,7 +65,22 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      
+
+      algolia: {
+        // L'ID de l'application fourni par Algolia
+        appId: '6GGICLXK18',
+  
+        // Clé d'API publique : il est possible de la committer en toute sécurité
+        apiKey: 'f3f92f267104875d2eaaa62dcda5ebb4',
+  
+        indexName: 'meosis',
+
+        contextualSearch: true,
+
+        placeholder: 'Recherche dans le wiki',
+
+      },
+
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -85,19 +101,6 @@ const config = {
             position: 'right',
           },
         ],
-      },
-
-      algolia: {
-        // L'ID de l'application fourni par Algolia
-        appId: '6GGICLXK18',
-  
-        // Clé d'API publique : il est possible de la committer en toute sécurité
-        apiKey: 'f3f92f267104875d2eaaa62dcda5ebb4',
-  
-        indexName: 'meosis',
-
-        debug: false,
-
       },
 
       footer: {

@@ -95,15 +95,8 @@ const config = {
         apiKey: 'f3f92f267104875d2eaaa62dcda5ebb4',
   
         indexName: 'meosis',
-  
-        // Facultatif : voir la section doc ci-dessous
-        contextualSearch: true,
-  
-        // Facultatif : paramètres de recherche de Algolia
-        // searchParameters: {},
-  
-        // Facultatif : chemin pour la page de recherche qui est activée par défaut (`false` pour le désactiver)
-        searchPagePath: 'search',
+
+        debug: false,
 
       },
 

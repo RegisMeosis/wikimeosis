@@ -66,19 +66,4 @@ export default function HomepageFeatures() {
   );
 }
 
-export default function HomepageFeatures() {
-  return (
-    <section className={styles.features}>
-      <div className="container">
-        <Search /> {/* Ajoutez la barre de recherche ici */}
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
-
 

@@ -1,0 +1,40 @@
+{
+    "index_name": "meosis",
+    "start_urls": [
+      {
+        "url": "https://wiki.meosis.fr/",
+        "selectors": {
+          "lvl0": ".sidebar .nav > li > a"
+        }
+      }
+    ],
+    "sitemap_urls": ["https://wiki.meosis.fr/sitemap.xml"],
+    "stop_urls": [],
+    "selectors": {
+      "lvl0": ".sidebar .nav > li > a",
+      "lvl1": null,
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null,
+      "text": null,
+      "title": "title",
+      "url": "loc"
+    },
+    "custom_settings": {
+      "sitemap_url": "https://yourwebsite.com/sitemap.xml",
+      "stop_urls": [
+        "/contact"
+      ],
+      "selectors": {
+        "lvl0": ".sidebar .nav > li > a",
+        "lvl1": ".sidebar .nav > li.active > ul > li > a",
+        "lvl2": null,
+        "lvl3": null,
+        "lvl4": null,
+        "text": ".content",
+        "title": "title",
+        "url": "loc"
+      }
+    }
+  }
+  

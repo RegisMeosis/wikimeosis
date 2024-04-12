@@ -77,9 +77,11 @@ const config = {
 
         contextualSearch: true,
 
-        placeholder: 'Recherche dans le wiki',
+        placeholder : 'Recherche dans le wiki',
 
-      },
+
+
+      }, 
 
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',

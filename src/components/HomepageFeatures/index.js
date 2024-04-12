@@ -1,6 +1,9 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import { Search } from '@docusaurus/theme-search-algolia';
+
+
 
 const FeatureList = [
   {
@@ -62,3 +65,20 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+
+export default function HomepageFeatures() {
+  return (
+    <section className={styles.features}>
+      <div className="container">
+        <Search /> {/* Ajoutez la barre de recherche ici */}
+        <div className="row">
+          {FeatureList.map((props, idx) => (
+            <Feature key={idx} {...props} />
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+

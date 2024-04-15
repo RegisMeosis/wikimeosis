@@ -72,6 +72,7 @@ const config = {
         apiKey: 'f3f92f267104875d2eaaa62dcda5ebb4',
         indexName: 'meosis',
         contextualSearch: true,
+        placeholder: 'Jerico Search'
       }, 
 
 

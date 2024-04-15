@@ -28,10 +28,10 @@ const config = {
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
-  
+
   i18n: {
-    defaultLocale: 'fr',
-    locales: ['fr'], 
+    defaultLocale: 'en',
+    locales: ['en'], 
   },
 
 

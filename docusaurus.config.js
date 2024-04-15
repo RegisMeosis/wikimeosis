@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'], 
+    defaultLocale: 'fr',
+    locales: ['fr'], 
   },
 
 

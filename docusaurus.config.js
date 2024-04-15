@@ -70,7 +70,7 @@ const config = {
       algolia: {
         appId: '6GGICLXK18',
         apiKey: 'f3f92f267104875d2eaaa62dcda5ebb4',
-        indexName: 'méosis',
+        indexName: 'meosis',
         contextualSearch: true,
         placeholder: 'Jerico Search'
       }, 

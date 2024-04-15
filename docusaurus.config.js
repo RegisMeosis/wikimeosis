@@ -66,22 +66,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 
+      //Algolia
       algolia: {
-        // L'ID de l'application fourni par Algolia
         appId: '6GGICLXK18',
-  
-        // Clé d'API publique : il est possible de la committer en toute sécurité
         apiKey: 'f3f92f267104875d2eaaa62dcda5ebb4',
-  
-        indexName: 'meosis',
-
+        indexName: 'méosis',
         contextualSearch: true,
-
-        placeholder : 'Recherche dans le wiki',
-
-
-
       }, 
+
 
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',

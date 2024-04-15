@@ -91,10 +91,6 @@ const config = {
             label: 'Meosis',
             position: 'right',
           },
-          {
-            type: 'search',
-            position: 'right',
-          },
         ],
       },
 

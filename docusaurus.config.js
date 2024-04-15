@@ -66,11 +66,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 
-      //Algolia
+      //Algolia 
       algolia: {
-        appId: '6GGICLXK18',
-        apiKey: 'f3f92f267104875d2eaaa62dcda5ebb4',
-        indexName: 'meosis',
+        appId: 'X1Z85QJPUV',
+        apiKey: 'bf7211c161e8205da2f933a02534105a',
+        indexName: 'docusaurus-2',
         contextualSearch: true,
         placeholder: 'Jerico Search'
       }, 

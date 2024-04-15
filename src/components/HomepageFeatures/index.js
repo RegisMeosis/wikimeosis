@@ -1,9 +1,6 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
-import { Search } from '@docusaurus/theme-search-algolia';
-
-
 
 const FeatureList = [
   {

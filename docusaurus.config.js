@@ -68,9 +68,9 @@ const config = {
 
       //Algolia 
       algolia: {
-        appId: 'X1Z85QJPUV',
-        apiKey: 'bf7211c161e8205da2f933a02534105a',
-        indexName: 'docusaurus-2',
+        appId: '6GGICLXK18',
+        apiKey: '5314d66ad80502bc11d6bddc895bc647',
+        indexName: 'meosis',
         contextualSearch: true,
         placeholder: 'Jerico Search'
       }, 

@@ -51,14 +51,6 @@ function HomepageHeader() {
           >
             Vitrine
           </Link>
-
-          <DocSearch
-            appId="6GGICLXK18"
-            indexName="meosis"
-            apiKey="f3f92f267104875d2eaaa62dcda5ebb4"
-          />
-
-
         </div>
       </div>
     </header>

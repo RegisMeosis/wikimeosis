@@ -51,7 +51,6 @@ function HomepageHeader() {
           >
             Vitrine
           </Link>
-          import { DocSearch } from '@docsearch/react';
 
           <DocSearch
             appId="6GGICLXK18"

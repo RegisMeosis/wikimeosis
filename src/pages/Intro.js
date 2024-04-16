@@ -11,7 +11,7 @@ function Intro() {
             <p>Sur ce site, vous trouverez des informations détaillées sur l'utilisation de notre produit.</p>
             <h2>Sommaire :</h2>
             <ul>
-              <li><a href="#elementor_sections">Les Sections avec Elementor</a></li>
+            <li><a href="#elementor_sections">Les Sections avec Elementor</a></li>
               <li><a href="#elementor_widget_accordeon">Widget Accordéon</a></li>
               <li><a href="#elementor_autres_widgets">Autres Widgets</a></li>
               <li><a href="#elementor_widget_boite_image">Widget Boîte d’image</a></li>
@@ -51,3 +51,4 @@ function Intro() {
 }
 
 export default Intro;
+

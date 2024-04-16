@@ -16,7 +16,7 @@ Pour vous connecter à Jerico, suivez ces étapes simples :
 1. Rendez-vous sur votre site internet.
 2. Ajoutez `/jerico` à l’adresse dans la barre de navigation. Par exemple : `https://votrenomdedomaine.fr/jerico`.
 3. Une fois sur la page de connexion, saisissez votre identifiant et votre mot de passe fournis par le service technique.
-4. Cliquez sur le bouton de connexion.
+4. Cliquez sur le bouton de connexion. 
 
 Et voilà ! Vous êtes maintenant connecté à Jerico et prêt à explorer ses fonctionnalités.
 

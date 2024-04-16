@@ -66,30 +66,46 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        <section className="container padding-vert--xl">
-          <div className="row">
-            <div className="col col--6">
-              <Heading as="h2">Bienvenue sur {siteConfig.title}!</Heading>
-              <p>
-                Le guide Jerico est votre ressource incontournable pour maîtriser toutes les
-                fonctionnalités de notre plateforme.
-              </p>
-              <p>
-                Vous y trouverez des tutoriels détaillés, des guides pratiques, des exemples
-                de code, ainsi que des astuces pour exploiter pleinement les capacités de
-                Jerico.
-              </p>
-            </div>
-            <div className="col col--6">
-              <img
-                src="/img/logo-meosis.svg"
-                alt="Bienvenue"
-                style={{ maxWidth: "100%", height: "auto" }}
-              />
-            </div>
-          </div>
-        </section>
+        <div className="container">
+          <p>
+            Le guide Jerico est votre ressource incontournable pour maîtriser toutes les
+            fonctionnalités de notre plateforme.
+          </p>
+          <p>
+            Vous y trouverez des tutoriels détaillés, des guides pratiques, des exemples
+            de code, ainsi que des astuces pour exploiter pleinement les capacités de
+            Jerico.
+          </p>
+        </div>
+        <div
+          style={{
+            position: "relative",
+            overflow: "hidden",
+            width: "100%",
+            height: "50vh", // Ajustez la hauteur selon vos besoins
+            background: "transparent",
+          }}
+        >
+          <video
+            autoPlay
+            loop
+            muted
+            style={{
+              position: "absolute",
+              width: "100%",
+              height: "100%",
+              objectFit: "cover",
+              zIndex: "-1",
+            }}
+          >
+            <source
+              src="https://cdn.cluster014.hosting.meosis.fr/videos/meosis.fr/new-video-meosis.mp4"
+              type="video/mp4"
+            />
+          </video>
+        </div>
       </main>
     </Layout>
   );
 }
+

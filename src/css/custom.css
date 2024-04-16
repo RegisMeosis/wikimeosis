@@ -36,3 +36,7 @@
 .algoliaLogo_rT1R{
   display: none;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

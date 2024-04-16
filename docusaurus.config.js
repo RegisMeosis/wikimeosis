@@ -34,6 +34,20 @@ const config = {
     locales: ['fr'], 
   },
 
+  plugins: [
+    async function myPlugin(context, options) {
+      return {
+        name: "docusaurus-tailwindcss",
+        configurePostCss(postcssOptions) {
+          // Appends TailwindCSS and AutoPrefixer.
+          postcssOptions.plugins.push(require("tailwindcss"));
+          postcssOptions.plugins.push(require("autoprefixer"));
+          return postcssOptions;
+        },
+      };
+    },
+  ],
+
 
   presets: [
     [
@@ -79,13 +93,13 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Meosis',
+        title: 'Bienvenue',
         logo: {
           alt: 'Logo du site',
           src: 'img/logo-meosis.svg',
         },
         items: [
-          {to: '/docs/category/découvrir-jerico', label: 'Découvrir', position: 'left'}, //topbar
+          {to: '/docs/category/découvrir-jerico', label: 'Formation Jerico', position: 'left'}, //topbar
           {
             href: 'https://www.meosis.fr/',
             label: 'Meosis',

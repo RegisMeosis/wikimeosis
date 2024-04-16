@@ -78,11 +78,11 @@ export default function Home() {
                 Vous y trouverez des tutoriels détaillés, des guides pratiques, des exemples
                 de code, ainsi que des astuces pour exploiter pleinement les capacités de
                 Jerico.
-              </p
+              </p>
             </div>
             <div className="col col--6">
               <img
-                src="/img/welcome.svg"
+                src="/img/logo-meosis.svg"
                 alt="Bienvenue"
                 style={{ maxWidth: "100%", height: "auto" }}
               />

@@ -7,18 +7,22 @@ sidebar_position: 7
 
 # Elementor : Des outils pour mieux vous retrouver
 
-## OUTILS PRATIQUES
+## Outils Pratiques
 
-Des outils pratiques pour mieux s’y retrouver dans Elementor. Une question ? Contactez le service technique à internet@meosis.fr
+Elementor offre une gamme d'outils pratiques pour vous aider à naviguer efficacement dans votre processus de création. Voici un aperçu de ces outils :
 
-- Cette icône vous permet d’accéder aux réglages. Vous pourrez y modifier le titre et l’image principale liée à la page.
+- **Réglages** : Cette icône vous donne accès aux réglages où vous pouvez modifier le titre et l'image principale associée à la page.
 
-- Cette icône désigne le navigateur. Il vous permet d’aller d’une section à une autre rapidement et ainsi d’apporter éventuellement des modifications. Vous pouvez activer / désactiver le navigateur depuis le bouton correspondant en bas à gauche de la page.
+- **Navigateur** : Cette icône représente le navigateur, vous permettant de passer rapidement d'une section à une autre pour apporter des modifications. Vous pouvez activer ou désactiver le navigateur depuis le bouton correspondant en bas à gauche de la page.
 
-- Cette icône désigne l’”Historique”. Il vous permet de visualiser les versions précédentes et revenir dessus en cliquant sur “Révisions”.
+- **Historique** : Cette icône vous permet d'accéder à l'historique des versions précédentes de votre travail. Vous pouvez revenir à une version antérieure en cliquant sur "Révisions".
 
-- Cette icône désigne la visualisation du mode responsive (mobile/tablette), afin de voir la présentation des pages sur ces supports.
+- **Mode Responsive** : Cette icône vous permet de visualiser votre page dans différents modes de dispositif, tels que mobile ou tablette, pour vous assurer que votre contenu s'affiche correctement sur chaque support.
 
-- Cette icône vous permet de prévisualiser les modifications. Un outil utile avant de mettre à jour ou de publier du contenu.
+- **Prévisualisation** : Cette icône vous permet de prévisualiser les modifications avant de les mettre à jour ou de publier du contenu, offrant ainsi un aperçu précieux de l'apparence finale de votre page.
 
-Vous avez également la possibilité d’interagir sur vos pages en cliquant sur le menu “burger” (les 3 traits horizontaux situés en haut à gauche, à côté de “Jerico”). En suivant le lien “Voir la page”, vous pourrez consulter votre page. En cliquant sur “Quitter”, vous retournerez sur la plateforme Jerico, comme avant de commencer l’édition de la page en cours.
+En outre, vous pouvez interagir avec vos pages en utilisant le menu "burger" (les 3 traits horizontaux situés en haut à gauche, à côté de "Jerico"). En suivant le lien "Voir la page", vous pouvez consulter votre page. En cliquant sur "Quitter", vous revenez à la plateforme Jerico, comme avant de commencer l'édition de la page en cours.
+
+Ces outils vous offrent un contrôle complet sur votre processus de création dans Elementor, vous permettant de travailler de manière efficace et de visualiser facilement les changements apportés à votre page.
+
+Pour toute question ou assistance supplémentaire, n'hésitez pas à contacter notre service technique à internet@meosis.fr.

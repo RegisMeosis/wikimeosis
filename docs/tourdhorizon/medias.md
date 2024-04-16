@@ -1,29 +1,37 @@
 ---
 id: medias
-title: Découverte de l’onglet médias
+title: Découverte de l’Onglet Médias
 sidebar_label: Onglet Médias
 sidebar_position: 5
 ---
 
-# L’ONGLET MÉDIAS
+# Découverte de l’Onglet Médias : Gestion Efficace de vos Ressources Visuelles
 
-### Gérer les médias de votre site 
+L'onglet Médias constitue le cœur de votre médiathèque, où vous pouvez stocker et gérer tous les fichiers visuels de votre site. Explorez ses fonctionnalités pour optimiser la gestion de vos médias.
 
-Découvrez comment ajouter des images à votre médiathèque.
+## Gestion des Médias
 
-Une question ? Contactez le service technique à internet@meosis.fr
+### Ajout et Organisation
 
-## Une fois les images importées
+Apprenez à ajouter des images, vidéos et autres fichiers à votre médiathèque :
 
-Une fois les images importées, vous pouvez les utiliser directement sur les pages via l’outil Elementor. Pour en savoir plus sur Elementor, l’outil de construction de pages, rendez-vous dans la section correspondante.
+- **Importation d'Images :** Découvrez comment ajouter des images à votre médiathèque pour les utiliser sur vos pages.
+- **Structuration des Ressources :** Organisez vos médias en dossiers pour une gestion plus efficace.
 
-### ATTENTION :
+## Utilisation des Médias
 
-Notez qu’il y a une limite de poids pour les images ! Vous pouvez utiliser un outil en ligne pour compresser vos images ([www.iloveimg.com/fr](https://www.iloveimg.com/fr))
+### Intégration dans vos Contenus
 
-## Tour d’horizon
+Une fois vos médias importés, vous pouvez les utiliser directement dans la construction de vos pages :
 
-### Gérer les médias de votre site 
+- **Intégration avec Elementor :** Utilisez vos médias dans l'outil Elementor pour créer des mises en page dynamiques et attrayantes.
 
-Découvrez comment ajouter des images à votre médiathèque.
-```
+## Conseils Pratiques
+
+### Optimisation des Images
+
+Assurez-vous que vos images respectent les normes de taille et de poids recommandées :
+
+- **Limite de Poids :** Notez qu'il existe une limite de poids pour les images. Utilisez des outils en ligne pour compresser vos images avant de les importer.
+
+L'onglet Médias est un outil essentiel pour gérer efficacement vos ressources visuelles. Explorez ses fonctionnalités pour tirer le meilleur parti de votre médiathèque et enrichir votre site avec des contenus visuellement attractifs.

@@ -1,12 +1,29 @@
 ---
-id: l’onglet menu
-title: Découverte l’onglet menu
-sidebar_label: L’onglet Menu
+id: onglet_menu
+title: Découverte de l'Onglet Menu
+sidebar_label: Onglet Menu
 sidebar_position: 3
 ---
 
-# Découverte de l’onglet menu
+# Découverte de l'Onglet Menu : Personnalisation de la Navigation de votre Site
 
-Dans l’onglet menu, vous pouvez modifier les onglets / pages qui s’affichent dans le menu de votre site. Pour ce faire, commencez par sélectionner les pages dans le cadre de gauche, “Ajouter des éléments de menu”. Vous pouvez ensuite déplacer les pages en maintenant la souris enfoncée et les faisant glisser jusqu’à l’endroit désiré dans le cadre de droite “Structure du menu”. Enfin, pensez à enregistrer vos modifications en cliquant sur le bouton “Enregistrer le menu“.
+L'onglet Menu vous permet de contrôler le contenu et l'organisation de la barre de navigation de votre site. Découvrez comment personnaliser votre menu pour offrir une expérience de navigation fluide à vos utilisateurs.
 
-Une question ? Contactez le service technique à internet@meosis.fr
+## Personnalisation du Menu
+
+### Ajout et Organisation des Éléments
+
+Commencez par sélectionner les pages et les liens que vous souhaitez inclure dans votre menu :
+
+- **Ajout d'Éléments :** Dans le cadre de gauche, utilisez l'option "Ajouter des éléments de menu" pour sélectionner les pages et les liens à inclure.
+- **Organisation des Éléments :** Dans le cadre de droite, structurez votre menu en faisant glisser les éléments pour définir leur ordre et leur hiérarchie.
+
+## Enregistrement des Modifications
+
+### Sauvegarde et Publication
+
+Une fois vos modifications apportées, n'oubliez pas de les enregistrer pour les rendre effectives sur votre site :
+
+- **Enregistrer le Menu :** Cliquez sur le bouton "Enregistrer le menu" pour sauvegarder vos changements et les appliquer à votre site.
+
+L'onglet Menu offre un contrôle complet sur la navigation de votre site, vous permettant de créer une expérience utilisateur optimale. Explorez ses fonctionnalités pour personnaliser votre menu selon les besoins de votre site.

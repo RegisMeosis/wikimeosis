@@ -7,14 +7,16 @@ sidebar_position: 3
 
 # Elementor : Créer une section
 
-## UNE SECTION, C’EST QUOI ?
+## Qu'est-ce qu'une section ?
 
-Une section est un élément déterminant pour la structuration d’une page dans Elementor. Elle permet de choisir la disposition des blocs (image, texte, etc.) qu’on pourra ajouter par la suite avec les widgets.
+Une section est un élément fondamental pour structurer une page dans Elementor. Elle offre la possibilité de choisir la disposition des blocs tels que les images, le texte, etc., que vous pourrez ajouter par la suite à l'aide des widgets.
 
-Pour ajouter une section, cliquez sur le bouton + rose qui s’affiche au bas de la page (sous les sections déjà présentes).
+Pour ajouter une section, suivez ces étapes simples :
 
-## CHOISIR LA STRUCTURE
+1. Cliquez sur le bouton rose **+** qui s'affiche en bas de la page, sous les sections déjà présentes.
 
-Les sections : des parties distinctes pour structurer votre page. Une question ? Contactez le service technique à internet@meosis.fr
+## Choix de la structure
 
-Après avoir cliqué sur le “+” précédent, vous devez choisir la structure de vos sections. Ainsi, vous pouvez créer 1 colonne, ou 2 côte à côte ou 3, ou 4, etc. Cela vous permet par exemple d’intégrer du texte à gauche et une image à droite.
+Les sections sont les éléments clés pour la structuration de votre page. Après avoir cliqué sur le bouton **+**, vous devez choisir la structure de votre section. Vous pouvez créer une colonne unique, ou opter pour deux colonnes côte à côte, trois, quatre, etc. Cette flexibilité vous permet, par exemple, d'intégrer du texte à gauche et une image à droite.
+
+Pour toute question ou assistance supplémentaire, n'hésitez pas à contacter notre service technique à internet@meosis.fr.

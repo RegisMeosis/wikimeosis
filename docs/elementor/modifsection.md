@@ -7,20 +7,22 @@ sidebar_position: 4
 
 # Elementor : Modifier une section
 
-## MODIFIER LA SECTION
+## Modifier la Section
 
-Les sections : des parties distinctes pour structurer votre page. Une question ? Contactez le service technique à internet@meosis.fr
+Les sections sont des éléments essentiels pour structurer votre page. Voici comment les modifier :
 
-Quand vous passez la souris sur le la section créée, celle-ci s’encadre de rose et vous avez un intercalaire au-dessus avec 3 symboles :
+### Modifier la Section
 
-- “+” > vous permet d’ajouter une nouvelle section
-- “:::” > vous permet de modifier la section (l’interface de modification s’affiche dans la colonne de gauche)
-- “X” > vous permet de supprimer la section
+Lorsque vous survolez une section que vous avez créée, elle est encadrée en rose et un intercalaire apparaît en haut avec trois symboles :
 
-Une question ? Contactez le service technique à internet@meosis.fr
+- **“+”** : Ajouter une nouvelle section.
+- **“:::”** : Modifier la section (l'interface de modification s'affiche dans la colonne de gauche).
+- **“X”** : Supprimer la section.
 
-## MODIFIER UNE COLONNE
+Pour toute question, n'hésitez pas à contacter notre service technique à internet@meosis.fr.
 
-Les sections : des parties distinctes pour structurer votre page.
+## Modifier une Colonne
 
-Vous avez aussi la possibilité de modifier une colonne en faisant un clic droit en haut à gauche sur l’icône grise. Un menu apparaît ensuite avec les différentes options de modification. Vous pouvez par exemple supprimer, ou encore dupliquer la colonne.
+Vous pouvez également modifier une colonne en effectuant un clic droit en haut à gauche sur l'icône grise. Un menu apparaît ensuite avec différentes options de modification. Vous pouvez par exemple supprimer ou dupliquer la colonne.
+
+Les sections offrent une flexibilité maximale pour personnaliser votre mise en page selon vos besoins. Besoin d'aide supplémentaire ? Contactez notre équipe technique à internet@meosis.fr.

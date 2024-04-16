@@ -4,46 +4,51 @@ title: Apparition et suppression auto
 sidebar_label: Programmation de la Popup
 ---
 
-## Apparition et suppression auto
+## Apparition et suppression automatique des Popups
 
-### LA PROGRAMMATION DE LA POPUP (1)
+### Programmation de la Popup (1)
 
-Un support pratique pour communiquer avec vos clients et prospects.
+Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
-Pour programmer votre popup, rendez-vous dans les paramétrages via la flèche en bas à gauche. Puis sélectionnez Conditions d’affichage.
+Pour programmer votre popup, suivez ces étapes :
 
-### LA PROGRAMMATION DE LA POPUP (2)
+1. Rendez-vous dans les paramétrages en cliquant sur la flèche en bas à gauche.
+2. Sélectionnez "Conditions d'affichage".
 
-Un support pratique pour communiquer avec vos clients et prospects.
+### Programmation de la Popup (2)
 
-C’est alors une fenêtre avec trois catégories de paramétrage sur la gauche qui apparaît. Vous serez automatiquement dans la partie “Conditions”. Dans cette partie, vous choisirez sur quelle page apparaîtra la popup.
+Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
-### LA PROGRAMMATION DE LA POPUP (3)
+Dans la fenêtre des paramètres, vous trouverez trois catégories sur la gauche. Vous serez automatiquement dirigé vers la partie "Conditions" où vous pourrez choisir sur quelle page la popup apparaîtra.
 
-Un support pratique pour communiquer avec vos clients et prospects.
+### Programmation de la Popup (3)
 
-Pour choisir la page, il est conseillé d’inclure votre popup à la page d’accueil uniquement, comme indiqué sur l’exemple ci-dessus.
+Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
-### LA PROGRAMMATION DE LA POPUP (4)
+Il est recommandé d'inclure votre popup sur la page d'accueil uniquement, comme indiqué dans l'exemple ci-dessus.
 
-Un support pratique pour communiquer avec vos clients et prospects.
+### Programmation de la Popup (4)
 
-Dans les catégories de gauche, sélectionnez ensuite la partie “Déclencheurs”. Cette partie vous permettra de déterminer l’action qui initiera l’apparition de la popup.
+Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
-### LA PROGRAMMATION DE LA POPUP (5)
+Ensuite, dans la section "Déclencheurs", déterminez l'action qui initiéra l'apparition de la popup.
 
-Un support pratique pour communiquer avec vos clients et prospects.
+### Programmation de la Popup (5)
 
-Comme précédemment, de nombreuses options seront possibles. Nous vous conseillons de sélectionner uniquement le chargement de la page en ajoutant un temps de chargement égal à l’exemple ci-dessus.
+Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
-### LA PROGRAMMATION DE LA POPUP (6)
+Nous vous conseillons de sélectionner le chargement de la page comme déclencheur principal, en ajoutant un temps de chargement si nécessaire.
 
-Un support pratique pour communiquer avec vos clients et prospects.
+### Programmation de la Popup (6)
 
-Enfin, dans la dernière catégorie “Règles avancées”, vous pourrez déterminer la date d’apparition et date de disparition de votre popup.
+Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
-### LA PROGRAMMATION DE LA POPUP (7)
+Enfin, dans la catégorie "Règles avancées", vous pouvez déterminer la date de début et de fin d'affichage de votre popup.
 
-Un support pratique pour communiquer avec vos clients et prospects.
+### Programmation de la Popup (7)
 
-Tout en bas des options, vous trouverez la ligne “Schedule date and time”, se traduisant par Programmer la date et l’heure. Ici, garder la timezone du site et déterminer la date de début et la date de fin d’affichage de votre popup.
+Les popups : un outil pratique pour communiquer avec vos clients et prospects.
+
+Au bas des options, vous trouverez la ligne "Schedule date and time". Utilisez cette fonction pour programmer la date et l'heure de début et de fin d'affichage de votre popup.
+
+Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

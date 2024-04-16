@@ -1,22 +1,27 @@
 ---
-id: gerer_les_actualites
-title: Une gestion simplifiée
+id: gerer_actualites
+title: Gérer les Actualités
 sidebar_label: Gérer les Actualités
 sidebar_position: 2
 ---
 
-# Une gestion simplifiée
+# Gérer les Actualités : Simplicité et Efficacité
 
-## GÉRER LES ACTUALITÉS (1/2)
+## Simplification de la Gestion
 
-Un support pratique pour communiquer avec vos clients et prospects. Dans le menu de gauche, sélectionnez l’onglet “Actualités” pour :
+La gestion de vos actualités est un processus simple et intuitif. Dans le menu de gauche, accédez à l'onglet "Actualités" pour :
 
-- Ajouter ;
-- Modifier ;
-- Supprimer une ou plusieurs actualités.
+- Ajouter de nouvelles actualités ;
+- Modifier les actualités existantes ;
+- Supprimer une ou plusieurs actualités selon vos besoins.
 
-Une question ? Contactez le service technique à internet@meosis.fr
+Une question ? Contactez notre équipe technique à internet@meosis.fr.
 
-## LA LISTE DES ACTUALITÉS
+## Navigation Facile
 
-Un support pratique pour communiquer avec vos clients et prospects. Après avoir cliqué sur cet onglet, vous aurez un visuel sur la liste de toutes les actualités présentes sur votre site. Pour en Modifier une ou la Supprimer il vous suffit de survoler l’actualité en question et de choisir parmi les options qui apparaissent.
+Naviguez facilement à travers la liste de vos actualités pour effectuer les actions nécessaires. Après avoir cliqué sur l'onglet "Actualités", vous aurez accès à une liste complète de toutes les actualités présentes sur votre site. Pour effectuer des modifications :
+
+- Survolez l'actualité souhaitée.
+- Choisissez parmi les options qui apparaissent, telles que "Modifier" ou "Supprimer".
+
+Gérez vos actualités en toute simplicité pour rester constamment à jour et informer votre audience.

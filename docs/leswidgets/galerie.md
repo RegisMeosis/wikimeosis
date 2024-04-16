@@ -7,8 +7,22 @@ sidebar_position: 6
 
 # Elementor : Widget Galerie
 
-## LES WIDGETS
+## Les Widgets
 
-Les widgets : des outils “blocs” déplaçables selon vos envies. Avec le widget Galerie, vous serez en mesure de disposer plusieurs images à la fois sur une partie de votre page. Si votre contenu se trouve déjà dans votre médiathèque, vous pourrez l’y trouver directement. Vous pourrez le télécharger simplement sur votre site dans le cas contraire (voir le curseur ci-contre).
+Les widgets sont des éléments de blocs déplaçables qui vous permettent de personnaliser votre page selon vos besoins. Le widget Galerie est un outil puissant pour afficher plusieurs images à la fois sur une partie de votre page.
 
-Comme pour le widget Image, la médiathèque de WordPress s’ouvrira et vous pourrez y déposer vos propres images.
+### Utilisations courantes
+
+Le widget Galerie est idéal pour présenter des portfolios, des galeries d'images, des témoignages clients, ou tout autre contenu visuel que vous souhaitez mettre en avant sur votre site.
+
+### Intégration de contenu depuis la médiathèque
+
+Si votre contenu se trouve déjà dans votre médiathèque WordPress, vous pouvez facilement l'intégrer dans votre galerie en quelques clics. Sinon, vous pouvez télécharger de nouvelles images directement depuis votre ordinateur.
+
+### Personnalisation de la Galerie
+
+Explorez les options de personnalisation disponibles pour ajuster l'apparence de votre galerie, telles que la disposition des images, les marges, les effets de transition, etc.
+
+N'hésitez pas à expérimenter avec les différentes configurations pour créer une galerie qui correspond parfaitement à votre style et à vos besoins.
+
+Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

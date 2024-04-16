@@ -27,8 +27,8 @@ Découvrez les éléments du menu :
 Une fois connecté à Jerico, vous serez accueilli par une interface conviviale et intuitive. Voici un aperçu rapide de ce que vous pouvez trouver dans le menu de navigation sur la gauche :
 
 - **Tableau de bord** : Consultez les données essentielles en un coup d'œil.
-- **Gestion des utilisateurs** : Ajoutez, supprimez ou modifiez les utilisateurs autorisés.
-- **Paramètres** : Personnalisez Jerico selon vos besoins.
+- **Page** : Créez, éditez ou supprimez des pages sur Jerico.
+- **Statistiques** : Consultez les données et les rapports statistiques sur Jerico.
 
 Explorez ces options pour tirer le meilleur parti de votre expérience sur Jerico !
 

@@ -5,45 +5,24 @@ sidebar_label: Édition de l'Actualité
 sidebar_position: 4
 ---
 
-# L'ÉDITION DE L'ACTUALITÉ (1)
+# Édition de l'Actualité
 
-Un support pratique pour communiquer avec vos clients et prospects.
+## Préparation du Contenu
 
-En tout premier, définissez le titre de votre actualité.
+Pour commencer l'édition de votre actualité, définissez d'abord un titre accrocheur qui reflète le sujet que vous souhaitez aborder.
 
-Puis, rédigez le contenu. Dans ce cadre, à l'image d'un éditeur comme Word ou LibreOffice, vous pourrez ajouter :
+Ensuite, rédigez le contenu de votre actualité. Dans ce cadre, similaire à un éditeur de texte classique, vous pouvez ajouter du texte, des titres, des images, des liens et même des listes à puces. N'oubliez pas que vous pouvez également styliser votre texte en gras ou en italique selon vos besoins.
 
-- du texte ;
-- des titres ;
-- des images ;
-- des liens ;
-- des listes à puces...
+## Attribution de Catégories
 
-et les styliser en **gras** ou *italique* au besoin.
+Après avoir rédigé le contenu, sélectionnez la catégorie appropriée qui correspond au sujet de votre actualité. Cela permettra à votre actualité d'apparaître au bon endroit sur votre site.
 
-Une question ? Contactez le service technique à internet@meosis.fr
+## Image à la Une
 
----
+N'oubliez pas d'ajouter une image mise en avant, qui servira d'illustration principale pour votre actualité et apparaîtra souvent en tête de celle-ci.
 
-# L'ÉDITION DE L'ACTUALITÉ (2)
+## Publication de l'Actualité
 
-Un support pratique pour communiquer avec vos clients et prospects.
+Une fois tous les paramètres définis, vous pouvez publier votre actualité en cliquant sur le bouton correspondant dans le cadre de droite de l'écran. Si vous avez simplement effectué des modifications sur une actualité existante, assurez-vous de cliquer sur "Mettre à jour" pour sauvegarder vos changements.
 
-Ensuite, à droite, choisissez la catégorie correspondante au sujet de votre actualité, afin qu'elle apparaisse au bon endroit sur le site.
-
-N'oubliez pas l'image mise en avant qui sert d'image de couverture.
-
-Une question ? Contactez le service technique à internet@meosis.fr
-
----
-
-# L'ÉDITION DE L'ACTUALITÉ (3)
-
-Un support pratique pour communiquer avec vos clients et prospects.
-
-Une fois que vous avez défini tous les paramètres de votre actualité, vous pouvez la Publier via le bouton dans le cadre du même nom à droite de l'écran.
-
-Si vous l'avez simplement modifié, n'oubliez pas de Mettre à jour.
-
-
-
+Pour toute question ou assistance, n'hésitez pas à contacter notre service technique à l'adresse internet@meosis.fr.

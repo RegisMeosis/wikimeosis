@@ -1,38 +1,30 @@
 ---
-id: pages
-title: Découverte de l’onglet pages
+id: onglet_pages
+title: Découverte de l'Onglet Pages
 sidebar_label: Onglet Pages
 sidebar_position: 4
 ---
 
-# L’ONGLET PAGES
+# Découverte de l'Onglet Pages : Gestion des Pages
 
-Dans l’onglet pages, vous pouvez retrouver toutes les pages qui sont en ligne sur votre site. Vous pouvez modifier les pages existantes et ajouter de nouvelles pages.
+L'onglet Pages vous permet de gérer facilement toutes les pages de votre site web. Explorez cette section pour modifier le contenu des pages existantes ou créer de nouvelles pages selon vos besoins.
 
-## Ajouter ou modifier des pages
+## Modification des Pages Existantes
 
-Pour modifier le contenu d’une page existante, passez la souris sur le titre de la page que vous souhaitez modifier puis cliquez sur “Modifier le contenu” qui apparaît dans le menu sous le titre de la page. Votre page s’ouvre alors dans l’outil Elementor pour vous permettre de la modifier.
+### Modifier le Contenu d'une Page
 
-Pour en savoir plus sur Elementor, l’outil de modification de pages, rendez-vous dans la section correspondante.
+Pour modifier le contenu d'une page existante, survolez le titre de la page dans la liste, puis cliquez sur "Modifier le contenu" qui apparaît dans le menu sous le titre. Cela ouvre la page dans l'outil de création de pages Elementor, où vous pouvez effectuer les modifications nécessaires.
 
-## Modifier une page existante
+## Création de Nouvelles Pages
 
-Les étapes pour modifier une page de votre site.
+### Créer une Nouvelle Page
 
-## Créer une nouvelle page
+Pour créer une nouvelle page et l'ajouter à votre site, cliquez sur le bouton "Ajouter". Cela ouvrira l'outil de création de pages.
 
-Pour créer une nouvelle page et l’ajouter à votre site, commencez par cliquer sur le bouton “Ajouter”. L’outil de création de page s’ouvre.
+#### Dans l'Outil de Création de Page
 
-### Créer une nouvelle page 
+1. Ajoutez un titre à votre nouvelle page.
+2. Cliquez sur "Enregistrer le brouillon" pour enregistrer le titre de la page.
+3. Ensuite, cliquez sur le bouton vert "Modifier le contenu" pour ouvrir la nouvelle page dans Elementor, où vous pouvez commencer à concevoir le contenu de la page.
 
-Les étapes pour créer et ajouter une page à votre site.
-
-## Dans l’outil de création de page
-
-Commencez par ajouter un titre à votre page, puis cliquez sur le bouton “Enregistrer le brouillon” dans le bloc de droite. Une fois le titre de la page enregistré, vous pouvez cliquer sur le bouton vert “Modifier le contenu”. Votre nouvelle page s’ouvre alors dans l’outil Elementor.
-
-Pour en savoir plus sur Elementor, l’outil de construction de pages, rendez-vous dans la section correspondante.
-
-### Créer une nouvelle page
-
-Les étapes pour créer et ajouter une page à votre site.
+L'onglet Pages offre un moyen convivial de gérer la structure et le contenu de votre site web. Que vous souhaitiez modifier le contenu existant ou créer de nouvelles pages, cet outil facilite grandement le processus.

@@ -5,12 +5,12 @@ sidebar_label: Les sections
 sidebar_position: 2
 ---
 
-# Elementor : Les sections TEST
+# Elementor : Les sections
 
-## STRUCTURE
+## Structure
 
-### Un outil facile à prendre en main pour des pages plus dynamiques.
+Elementor propose une approche intuitive basée sur la structure en sections (ou blocs) pour créer des pages dynamiques et attrayantes. Les sections servent de fondation sur laquelle vous pouvez intégrer divers widgets pour organiser et enrichir votre contenu avec du texte, des images, des listes de prix, des vidéos, etc.
 
-Elementor fonctionne avec une structure en sections (ou blocs). Il suffit d’intégrer des widgets pour organiser la page et l’illustrer avec du texte, des images, des listes de prix, des vidéos, etc.
+Passons maintenant en revue plus en détail la création et la modification des blocs.
 
-Nous allons voir à présent plus en détail comment créer / modifier des blocs.
+Pour toute question ou assistance supplémentaire, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

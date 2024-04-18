@@ -93,7 +93,6 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Bienvenue',
         logo: {
           alt: 'Logo du site',
           src: 'img/logo-meosis.svg',
@@ -256,13 +255,20 @@ const config = {
               },
               {
                 label: 'Mentions Légales & Politique de confidentialité',
-                href: 'https://wiki.meosis.fr/mentions-legales',
+                href: '/mentions-legales',
               },
             ],
           },
           
         ],
         copyright: `Copyright ©Meosis ${new Date().getFullYear()} 1 rue de Lugano 68180 Horbourg-Wihr.`,
+        logo: {
+          alt: 'Meosis Logo',
+          src: 'img/logo-meosis.svg',
+          href: 'https://www.meosis.fr',
+          width: 160,
+          height: 51,
+        },
       },
       prism: {
         theme: prismThemes.github,

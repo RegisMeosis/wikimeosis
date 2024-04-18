@@ -10,4 +10,8 @@ module.exports = {
     preflight: false,
   },
   blocklist: ["container"],
+  colors: {
+    'green': '#8dc740',
+    'green2': '#708952',
+  }
 }

@@ -36,7 +36,7 @@ export default function Home() {
                 Jerico.
               </p>
               <div> <Link
-            className="button button--secondary button--lg"
+            className="button button--secondary button--lg  hover:bg-green-500"
             to="/docs/category/découvrir-jerico"
             style={{ marginLeft: "10px", marginRight: "10px" }} // Ajoute de la marge à gauche et à droite
           >
@@ -68,7 +68,7 @@ export default function Home() {
             loop
             muted
             style={{
-              position: "absolute",
+              position: "fixe",
               width: "100%",
               height: "100%",
               objectFit: "cover",

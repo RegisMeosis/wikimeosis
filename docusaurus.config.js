@@ -255,12 +255,8 @@ const config = {
                 href: 'https://www.meosis.fr/contact.html',
               },
               {
-                label: 'Plan du site',
-                href: 'https://www.meosis.fr/sitemap.html',
-              },
-              {
                 label: 'Mentions Légales & Politique de confidentialité',
-                href: 'https://www.meosis.fr/mentions-legales.html',
+                href: 'https://wiki.meosis.fr/mentions-legales',
               },
             ],
           },

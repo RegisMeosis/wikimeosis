@@ -79,6 +79,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        content:
+          "Découvrez notre nouveau site, votre guide pour gérer, éditer et mettre à jour votre site internet grace à Jerico. 🚀💻",
+        backgroundColor: '#8dc641',
+        textColor: '#091E42',
+        isCloseable: true,
+      },
 
       colorMode: {
         defaultMode: 'dark',

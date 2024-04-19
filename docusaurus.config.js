@@ -80,6 +80,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
+      },
+
       //Algolia 
       algolia: {
         appId: '6GGICLXK18',
@@ -114,7 +121,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Vitrine',
+                label: 'Formation Jerico',
                 to: '/docs/category/découvrir-jerico',
               },
             ],

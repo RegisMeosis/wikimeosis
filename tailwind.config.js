@@ -13,5 +13,12 @@ module.exports = {
   colors: {
     'green': '#8dc740',
     'green2': '#708952',
+  },
+  fontFamily: {
+    'sans': ['ui-sans-serif', 'system-ui'],
+    'serif': ['ui-serif', 'Georgia'],
+    'mono': ['ui-monospace', 'SFMono-Regular'],
+    'display': ['Oswald'],
+    'body': ['"Open Sans"'],
   }
 }

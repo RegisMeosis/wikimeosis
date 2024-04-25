@@ -37,6 +37,68 @@
   display: none;
 }
 
+/* SF New Republic */
+@font-face {
+  font-family: 'SF_New_Republic';
+  src: url('./fonts/SF New Republic.ttf') format('woff2');
+}
+
+/* SF New Republic Bold */
+@font-face {
+  font-family: 'SF_New_Republic_Bold';
+  src: url('./fonts/SF New Republic Bold.ttf') format('woff2');
+}
+
+/* SF New Republic Italic */
+@font-face {
+  font-family: 'SF_New_Republic_Italic';
+  src: url('./fonts/SF New Republic Italic.ttf') format('woff2');
+}
+
+/* SF New Republic Bold Italic */
+@font-face {
+  font-family: 'SF_New_Republic_Bold_Italic';
+  src: url('./fonts/SF New Republic Bold Italic.ttf') format('woff2');
+}
+
+/* SF New Republic SC */
+@font-face {
+  font-family: 'SF_New_Republic_SC';
+  src: url('./fonts/SF New Republic SC.ttf') format('woff2');
+}
+
+/* SF New Republic SC Bold */
+@font-face {
+  font-family: 'SF_New_Republic_SC_Bold';
+  src: url('./fonts/SF New Republic SC Bold.ttf') format('woff2');
+}
+
+/* SF New Republic SC Italic */
+@font-face {
+  font-family: 'SF_New_Republic_SC_Italic';
+  src: url('./fonts/SF New Republic SC Italic.ttf') format('woff2');
+}
+
+/* SF New Republic SC Bold Italic */
+@font-face {
+  font-family: 'SF_New_Republic_SC_Bold_Italic';
+  src: url('./fonts/SF New Republic SC Bold Italic.ttf') format('woff2');
+}
+
+h1, h3 {
+  font-family: 'SF_New_Republic_SC', sans-serif;
+}
+
+h2 {
+  font-family: 'SF_New_Republic_Bold', sans-serif;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

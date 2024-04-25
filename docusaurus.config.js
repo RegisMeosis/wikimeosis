@@ -280,6 +280,7 @@ const config = {
           
         ],
         copyright: `Copyright ©Meosis ${new Date().getFullYear()} 1 rue de Lugano 68180 Horbourg-Wihr.`,
+        //logo footer
         logo: {
           alt: 'Meosis Logo',
           src: 'img/logo-meosis.svg',
@@ -288,6 +289,7 @@ const config = {
           height: 51,
         },
       },
+      //blocs de code
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,

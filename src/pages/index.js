@@ -38,7 +38,7 @@ export default function Home() {
               <div> <Link
             className="button button--secondary button--lg  hover:bg-green-500"
             to="/docs/category/découvrir-jerico"
-            style={{ marginLeft: "10px", marginRight: "10px" }} // Ajoute de la marge à gauche et à droite
+            style={{ marginLeft: "10px", marginRight: "10px" }} 
           >
             Formation Jerico
           </Link></div>

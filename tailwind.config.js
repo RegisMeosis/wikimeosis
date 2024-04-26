@@ -15,10 +15,15 @@ module.exports = {
     'green2': '#708952',
   },
   fontFamily: {
-    'sans': ['ui-sans-serif', 'system-ui'],
-    'serif': ['ui-serif', 'Georgia'],
-    'mono': ['ui-monospace', 'SFMono-Regular'],
-    'display': ['Oswald'],
-    'body': ['"Open Sans"'],
-  }
+    'body': ['"Roboto"'],
+    'sf-new-republic': ['SF_New_Republic'],
+    'sf-new-republic-bold': ['SF_New_Republic_Bold'],
+    'sf-new-republic-italic': ['SF_New_Republic_Italic'],
+    'sf-new-republic-bold-italic': ['SF_New_Republic_Bold_Italic'],
+    'sf-new-republic-sample': ['SF_New_Republic_Sample'],
+    'sf-new-republic-sc': ['SF_New_Republic_SC'],
+    'sf-new-republic-sc-bold': ['SF_New_Republic_SC_Bold'],
+    'sf-new-republic-sc-italic': ['SF_New_Republic_SC_Italic'],
+    'sf-new-republic-sc-bold-italic': ['SF_New_Republic_SC_Bold_Italic'],
+  },
 }

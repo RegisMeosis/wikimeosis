@@ -7,7 +7,7 @@ sidebar_position: 1
 
 # Qu'est-ce qu'une Actualité ?
 
-![actualités](./img/61.jpg)
+![actualités](./img/61.png)
 
 Les actualités font référence à ces articles pour communiquer des évènements, faits et informations du moment en lien avec l’entreprise.
 

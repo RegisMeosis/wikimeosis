@@ -13,9 +13,13 @@ Les widgets sont des éléments de blocs déplaçables qui vous permettent de pe
 
 ### Utilisation du widget
 
+![Vidéo](./img/42.jpg)
+
 Le widget Vidéo vous permet d'afficher des vidéos à partir de différentes sources telles que YouTube, Vimeo, ou tout autre lien vidéo. Vous pouvez contrôler la taille, l'affichage, la lecture et le son de la vidéo selon vos préférences.
 
 ### Affichage de votre propre vidéo
+
+![Vidéo](./img/41.jpg)
 
 Pour afficher votre propre vidéo, éditez le lien dans le widget et insérez-y le lien de votre vidéo. Assurez-vous d'utiliser un format de lien compatible avec le widget Vidéo.
 

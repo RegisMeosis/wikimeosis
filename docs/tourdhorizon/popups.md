@@ -7,6 +7,8 @@ sidebar_position: 10
 
 # Découverte de l'Onglet Popups : Gestion des Popups
 
+![Popups](./img/16.jpg)
+
 L'onglet Popups vous permet de créer des fenêtres surgissantes qui s'afficheront en premier plan lorsque les visiteurs chargent la page d'accueil de votre site. Ces popups sont idéales pour afficher des informations importantes et temporaires telles que les congés ou les promotions.
 
 ## Création et Édition des Popups

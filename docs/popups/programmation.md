@@ -8,6 +8,8 @@ sidebar_label: Programmation de la Popup
 
 ### Programmation de la Popup (1)
 
+![popup](./img/78.png)
+
 Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
 Pour programmer votre popup, suivez ces étapes :
@@ -17,11 +19,15 @@ Pour programmer votre popup, suivez ces étapes :
 
 ### Programmation de la Popup (2)
 
+![popup](./img/79.png)
+
 Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
 Dans la fenêtre des paramètres, vous trouverez trois catégories sur la gauche. Vous serez automatiquement dirigé vers la partie "Conditions" où vous pourrez choisir sur quelle page la popup apparaîtra.
 
 ### Programmation de la Popup (3)
+
+![popup](./img/80.png)
 
 Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
@@ -29,11 +35,15 @@ Il est recommandé d'inclure votre popup sur la page d'accueil uniquement, comme
 
 ### Programmation de la Popup (4)
 
+![popup](./img/81.png)
+
 Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
 Ensuite, dans la section "Déclencheurs", déterminez l'action qui initiéra l'apparition de la popup.
 
 ### Programmation de la Popup (5)
+
+![popup](./img/82.png)
 
 Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
@@ -41,11 +51,15 @@ Nous vous conseillons de sélectionner le chargement de la page comme déclenche
 
 ### Programmation de la Popup (6)
 
+![popup](./img/83.png)
+
 Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 
 Enfin, dans la catégorie "Règles avancées", vous pouvez déterminer la date de début et de fin d'affichage de votre popup.
 
 ### Programmation de la Popup (7)
+
+![popup](./img/84.png)
 
 Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 

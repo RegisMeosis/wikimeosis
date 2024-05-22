@@ -13,6 +13,8 @@ Les widgets sont des éléments de blocs déplaçables qui vous permettent de pe
 
 ### Utilisations courantes
 
+![Bouton](./img/44.jpg)
+
 Le Bouton est particulièrement utile pour inciter vos visiteurs à effectuer des actions spécifiques, telles que :
 
 - Naviguer vers une page de contact
@@ -20,6 +22,8 @@ Le Bouton est particulièrement utile pour inciter vos visiteurs à effectuer de
 - Souscrire à une newsletter
 
 ### Personnalisation du Bouton
+
+![Bouton](./img/43.jpg)
 
 Pour personnaliser votre bouton, suivez ces étapes simples :
 

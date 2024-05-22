@@ -13,6 +13,8 @@ Les widgets sont des éléments de blocs déplaçables qui vous permettent de pe
 
 ### Utilisations courantes
 
+![interne](./img/48.jpg)
+
 Le widget Section interne vous permet de créer des sections au sein d'autres sections. Par exemple, vous pouvez placer une section interne de 4 colonnes dans une section de 2 colonnes, ce qui offre une grande flexibilité dans la mise en page de votre site.
 
 ### Utilisation du widget
@@ -23,6 +25,8 @@ Pour utiliser le widget Section interne, suivez ces étapes simples :
 2. Placez-le à l'intérieur d'une section existante.
 
 ### Personnalisation de la Section interne
+
+![interne](./img/47.jpg)
 
 Explorez les options de personnalisation disponibles pour ajuster l'apparence et la disposition de votre section interne, telles que le nombre de colonnes, les marges, les espacements, etc.
 

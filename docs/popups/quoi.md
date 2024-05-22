@@ -9,6 +9,8 @@ sidebar_position: 1
 
 ## Un outil pratique pour engager vos clients et prospects.
 
+![popup](./img/72.png)
+
 Les popups, également connues sous le nom de fenêtres surgissantes, sont des éléments visuels qui s'affichent à l'avant des pages de votre site. Elles sont une solution efficace pour communiquer des informations ponctuelles ou exceptionnelles telles que des promotions, des événements spéciaux ou des offres exclusives.
 
 ### Les Avantages des Popups pour l'Expérience Utilisateur (UX) :

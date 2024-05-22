@@ -7,6 +7,8 @@ sidebar_position: 5
 
 # Elementor : Modifier un widget
 
+![Modifier](./img/23.jpg)
+
 ## Modifier le contenu d’un widget
 
 Pour modifier le contenu d’un widget, suivez ces étapes simples :

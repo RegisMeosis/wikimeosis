@@ -7,6 +7,8 @@ sidebar_position: 8
 
 # Découverte de l’onglet Avis : Écoutez et Interagissez avec vos Clients
 
+![Avis](./img/14.jpg)
+
 L'onglet Avis est un outil puissant pour recueillir et gérer les retours de vos clients sur votre site. Voici comment tirer parti de cette fonctionnalité pour améliorer votre relation client.
 
 ## Vue d'Ensemble

@@ -25,7 +25,7 @@ Pour créer une nouvelle page et l'ajouter à votre site, cliquez sur le bouton 
 
 #### Dans l'Outil de Création de Page
 
-![Création](./img/10.jpg)
+![Création](./img/10.png)
 
 1. Ajoutez un titre à votre nouvelle page.
 2. Cliquez sur "Enregistrer le brouillon" pour enregistrer le titre de la page.

@@ -21,11 +21,11 @@ Ensuite, rédigez le contenu de votre actualité. Dans ce cadre, similaire à un
 
 ![Contenu](./img/68.png)
 
-![Contenu](./img/69.png)
-
 Après avoir rédigé le contenu, sélectionnez la catégorie appropriée qui correspond au sujet de votre actualité. Cela permettra à votre actualité d'apparaître au bon endroit sur votre site.
 
 ## Image à la Une
+
+![Contenu](./img/69.png)
 
 N'oubliez pas d'ajouter une image mise en avant, qui servira d'illustration principale pour votre actualité et apparaîtra souvent en tête de celle-ci.
 

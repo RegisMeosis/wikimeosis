@@ -7,6 +7,8 @@ sidebar_position: 4
 
 # Découverte de l'Onglet Pages : Gestion des Pages
 
+![Pages](./img/9.png)
+
 L'onglet Pages vous permet de gérer facilement toutes les pages de votre site web. Explorez cette section pour modifier le contenu des pages existantes ou créer de nouvelles pages selon vos besoins.
 
 ## Modification des Pages Existantes

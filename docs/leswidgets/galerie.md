@@ -13,6 +13,8 @@ Les widgets sont des éléments de blocs déplaçables qui vous permettent de pe
 
 ### Utilisations courantes
 
+![Galerie](./img/46.jpg)
+
 Le widget Galerie est idéal pour présenter des portfolios, des galeries d'images, des témoignages clients, ou tout autre contenu visuel que vous souhaitez mettre en avant sur votre site.
 
 ### Intégration de contenu depuis la médiathèque
@@ -20,6 +22,8 @@ Le widget Galerie est idéal pour présenter des portfolios, des galeries d'imag
 Si votre contenu se trouve déjà dans votre médiathèque WordPress, vous pouvez facilement l'intégrer dans votre galerie en quelques clics. Sinon, vous pouvez télécharger de nouvelles images directement depuis votre ordinateur.
 
 ### Personnalisation de la Galerie
+
+![Galerie](./img/45.jpg)
 
 Explorez les options de personnalisation disponibles pour ajuster l'apparence de votre galerie, telles que la disposition des images, les marges, les effets de transition, etc.
 

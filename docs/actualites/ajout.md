@@ -9,7 +9,7 @@ sidebar_position: 3
 
 ## Un Moyen Pratique de Communication
 
-![gestion](./img/64.png) ![gestion](./img/64.png)
+![gestion](./img/64.png) ![gestion](./img/65.png)
 
 Ajouter des actualités à votre site vous permet de tenir vos clients et prospects informés sur les dernières nouvelles, événements ou promotions de votre entreprise.
 

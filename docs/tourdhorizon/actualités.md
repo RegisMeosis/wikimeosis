@@ -7,6 +7,8 @@ sidebar_position: 6
 
 # Découverte de l’onglet Actualités : Restez Connecté avec vos Visiteurs
 
+![Actualités](./img/12.jpg)
+
 L’onglet Actualités est un outil essentiel pour tenir vos visiteurs informés des dernières nouvelles, mises à jour ou événements concernant votre site. Voici comment tirer le meilleur parti de cette fonctionnalité.
 
 ## Vue d'Ensemble

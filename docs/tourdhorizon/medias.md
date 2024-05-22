@@ -7,6 +7,8 @@ sidebar_position: 5
 
 # Découverte de l’Onglet Médias : Gestion Efficace de vos Ressources Visuelles
 
+![Médias](./img/11.png)
+
 L'onglet Médias constitue le cœur de votre médiathèque, où vous pouvez stocker et gérer tous les fichiers visuels de votre site. Explorez ses fonctionnalités pour optimiser la gestion de vos médias.
 
 ## Gestion des Médias

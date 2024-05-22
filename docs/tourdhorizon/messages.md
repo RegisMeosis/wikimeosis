@@ -7,6 +7,8 @@ sidebar_position: 7
 
 # Découverte de l'Onglet Messages : Gestion des Prises de Contact
 
+![Messages](./img/13.jpg)
+
 L'onglet Messages vous permet de consulter et de gérer toutes les prises de contact effectuées via le formulaire de contact de votre site. Explorez cette fonctionnalité pour rester en contact avec vos visiteurs et répondre à leurs demandes.
 
 ## Visualisation des Messages

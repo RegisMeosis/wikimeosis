@@ -7,6 +7,8 @@ sidebar_position: 3
 
 # Découverte de l'Onglet Menu : Personnalisation de la Navigation de votre Site
 
+![Menu](./img/8.png)
+
 L'onglet Menu vous permet de contrôler le contenu et l'organisation de la barre de navigation de votre site. Découvrez comment personnaliser votre menu pour offrir une expérience de navigation fluide à vos utilisateurs.
 
 ## Personnalisation du Menu

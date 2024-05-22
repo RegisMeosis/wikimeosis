@@ -25,6 +25,8 @@ Pour créer une nouvelle page et l'ajouter à votre site, cliquez sur le bouton 
 
 #### Dans l'Outil de Création de Page
 
+![Création](./img/10.jpg)
+
 1. Ajoutez un titre à votre nouvelle page.
 2. Cliquez sur "Enregistrer le brouillon" pour enregistrer le titre de la page.
 3. Ensuite, cliquez sur le bouton vert "Modifier le contenu" pour ouvrir la nouvelle page dans Elementor, où vous pouvez commencer à concevoir le contenu de la page.

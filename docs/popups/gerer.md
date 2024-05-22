@@ -30,7 +30,7 @@ Après avoir cliqué sur l'onglet "Popups", vous verrez la liste de tous les mod
 
 ### Ajouter une popup
 
-![Contenu](./img/74.png)
+![Contenu](./img/75.png)
 
 Les popups : un outil pratique pour communiquer avec vos clients et prospects.
 

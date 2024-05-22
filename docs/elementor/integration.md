@@ -11,6 +11,8 @@ sidebar_position: 14
 
 ### Comment ajouter du contenu dans une section ?
 
+![contenu](./img/22.jpg)
+
 L'intégration de widgets dans une section avec Elementor est simple et intuitive. Suivez ces étapes :
 
 1. Choisissez la structure de votre section.
@@ -22,11 +24,15 @@ Pour des détails sur les différents widgets disponibles, référez-vous au cha
 
 ## Ajout de Widgets
 
+![contenu](./img/22.jpg)
+
 Ajouter des widgets à votre section est facile avec Elementor :
 
 1. Cliquez sur le widget que vous souhaitez ajouter.
 2. Maintenez la souris enfoncée et glissez le widget jusqu'à la colonne désirée.
 3. Relâchez le bouton de la souris pour déposer le widget.
+
+![contenu](./img/23.jpg)
 
 Vous pouvez ajouter plusieurs widgets dans une colonne, et ils seront affichés les uns en dessous des autres.
 

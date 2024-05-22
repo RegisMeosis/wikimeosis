@@ -13,9 +13,9 @@ sidebar_position: 7
 
 Elementor offre une gamme d'outils pratiques pour vous aider à naviguer efficacement dans votre processus de création. Voici un aperçu de ces outils :
 
-- **Réglages** : ![Réglages](./img/28.jpg) Cette icône vous donne accès aux réglages où vous pouvez modifier le titre et l'image principale associée à la page.
+- **Réglages** :  ![Navigateur](./img/29.jpg) Cette icône vous donne accès aux réglages où vous pouvez modifier le titre et l'image principale associée à la page.
 
-- **Navigateur** : ![Navigateur](./img/29.jpg) Cette icône représente le navigateur, vous permettant de passer rapidement d'une section à une autre pour apporter des modifications. Vous pouvez activer ou désactiver le navigateur depuis le bouton correspondant en bas à gauche de la page.
+- **Navigateur** : ![Réglages](./img/28.jpg) Cette icône représente le navigateur, vous permettant de passer rapidement d'une section à une autre pour apporter des modifications. Vous pouvez activer ou désactiver le navigateur depuis le bouton correspondant en bas à gauche de la page.
 
 - **Historique** : ![Historique](./img/30.jpg) Cette icône vous permet d'accéder à l'historique des versions précédentes de votre travail. Vous pouvez revenir à une version antérieure en cliquant sur "Révisions".
 

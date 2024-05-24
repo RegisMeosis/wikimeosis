@@ -63,23 +63,8 @@ export default function Home() {
             background: "transparent",
           }}
         >
-          <video
-            autoPlay
-            loop
-            muted
-            style={{
-              position: "fixe",
-              width: "100%",
-              height: "100%",
-              objectFit: "cover",
-              zIndex: "-1",
-            }}
-          >
-            <source
-              src="https://cdn.cluster014.hosting.meosis.fr/videos/meosis.fr/new-video-meosis.mp4"
-              type="video/mp4"
-            />
-          </video>
+           
+            
         </section>
       </main>
     </Layout>

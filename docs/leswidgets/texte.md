@@ -13,6 +13,8 @@ Les widgets sont des éléments de blocs déplaçables qui vous permettent de pe
 
 ### Utilisation du widget
 
+![texte](./img/36.jpg)
+
 L'Éditeur de texte vous permet de modifier simplement le texte affiché sur votre site en utilisant l'éditeur d'Elementor sur le côté gauche de l'écran. Voici comment l'utiliser :
 
 1. Accédez à l'interface d'édition de votre page en cliquant sur "Modifier avec Elementor" depuis votre espace Jerico.
@@ -21,6 +23,8 @@ L'Éditeur de texte vous permet de modifier simplement le texte affiché sur vot
 4. Modifiez votre texte en direct dans l'éditeur.
 
 ### Personnalisation du texte
+
+![texte](./img/35.jpg)
 
 Explorez les options de personnalisation disponibles pour ajuster le style, la taille, la couleur et la mise en forme de votre texte. Vous pouvez également ajouter des liens, des images et d'autres éléments de contenu à votre texte.
 

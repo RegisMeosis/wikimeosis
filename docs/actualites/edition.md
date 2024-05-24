@@ -9,15 +9,23 @@ sidebar_position: 4
 
 ## Préparation du Contenu
 
+![Contenu](./img/66.png)
+
 Pour commencer l'édition de votre actualité, définissez d'abord un titre accrocheur qui reflète le sujet que vous souhaitez aborder.
+
+![Contenu](./img/67.png)
 
 Ensuite, rédigez le contenu de votre actualité. Dans ce cadre, similaire à un éditeur de texte classique, vous pouvez ajouter du texte, des titres, des images, des liens et même des listes à puces. N'oubliez pas que vous pouvez également styliser votre texte en gras ou en italique selon vos besoins.
 
 ## Attribution de Catégories
 
+![Contenu](./img/68.png)
+
 Après avoir rédigé le contenu, sélectionnez la catégorie appropriée qui correspond au sujet de votre actualité. Cela permettra à votre actualité d'apparaître au bon endroit sur votre site.
 
 ## Image à la Une
+
+![Contenu](./img/69.png)
 
 N'oubliez pas d'ajouter une image mise en avant, qui servira d'illustration principale pour votre actualité et apparaîtra souvent en tête de celle-ci.
 

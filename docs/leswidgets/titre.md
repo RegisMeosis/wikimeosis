@@ -13,9 +13,13 @@ Les widgets sont des éléments de blocs déplaçables qui vous permettent de pe
 
 ### Utilisation du widget
 
+![Titre](./img/40.jpg)
+
 Le widget Titre peut être utilisé pour titrer vos paragraphes, organiser vos sections ou mettre en évidence des informations importantes sur votre page. Placez ce bloc de préférence avant le widget Éditeur de texte pour un effet visuel efficace.
 
 ### Personnalisation du titre
+
+![Titre](./img/39.jpg)
 
 Pour éditer votre titre, cliquez simplement sur le bloc et modifiez-le comme vous éditeriez du texte. Explorez les options de personnalisation disponibles pour ajuster le style, la taille, la couleur et la mise en forme de votre titre.
 

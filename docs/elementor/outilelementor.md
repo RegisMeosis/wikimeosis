@@ -7,6 +7,8 @@ sidebar_position: 1
 
 # Découverte de l'outil Elementor
 
+![Elementor](./img/17.png)
+
 ## Simplifiez la conception de votre site avec Elementor
 
 Elementor est un constructeur de pages intuitif qui vous permet de créer des sites web dynamiques sans avoir besoin de compétences en codage.

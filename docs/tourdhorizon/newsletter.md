@@ -7,6 +7,8 @@ sidebar_position: 9
 
 # Découverte de l'Onglet Newsletter : Gestion des Abonnés
 
+![Newsletter](./img/15.jpg)
+
 L'onglet Newsletter vous offre un aperçu complet de la liste des e-mails collectés grâce à l'outil de récolte d'e-mails intégré à votre site. Explorez cette fonctionnalité pour rester en contact avec votre audience et développer votre liste d'abonnés.
 
 ## Consultation des Abonnés

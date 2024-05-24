@@ -9,6 +9,8 @@ sidebar_position: 2
 
 ## Simplification de la Gestion
 
+![gestion](./img/62.png)
+
 La gestion de vos actualités est un processus simple et intuitif. Dans le menu de gauche, accédez à l'onglet "Actualités" pour :
 
 - Ajouter de nouvelles actualités ;
@@ -18,6 +20,8 @@ La gestion de vos actualités est un processus simple et intuitif. Dans le menu 
 Une question ? Contactez notre équipe technique à internet@meosis.fr.
 
 ## Navigation Facile
+
+![gestion](./img/63.png)
 
 Naviguez facilement à travers la liste de vos actualités pour effectuer les actions nécessaires. Après avoir cliqué sur l'onglet "Actualités", vous aurez accès à une liste complète de toutes les actualités présentes sur votre site. Pour effectuer des modifications :
 

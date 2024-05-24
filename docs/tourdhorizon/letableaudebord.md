@@ -7,6 +7,8 @@ sidebar_position: 1
 
 # Découverte du Tableau de Bord : Votre Hub Central pour une Gestion Efficace
 
+![Tableau de Bord](./img/6.png)
+
 Le tableau de bord est le centre névralgique de votre espace d'administration. Il regorge d'informations vitales et d'outils pour vous aider à gérer votre site avec succès. Plongeons dans les fonctionnalités essentielles de cette interface incontournable.
 
 ## Vue d'Ensemble

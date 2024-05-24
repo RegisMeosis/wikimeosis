@@ -13,9 +13,13 @@ Les widgets sont des éléments de blocs déplaçables qui vous permettent de pe
 
 ### Utilisations courantes
 
+![Image](./img/38.jpg)
+
 Le widget Image vous permet d'ajouter et d'éditer des photos ou des images sur votre page. Il est recommandé d'approvisionner vos pages en contenus visuels afin d'accompagner vos textes et d'attirer l'attention de vos visiteurs.
 
 ### Ajout d'une image
+
+![Image](./img/37.jpg)
 
 Pour ajouter une image, suivez ces étapes simples :
 

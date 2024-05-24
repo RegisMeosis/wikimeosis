@@ -7,6 +7,8 @@ sidebar_position: 2
 
 # Découverte de l'Onglet Statistiques : Analyse des Performances du Site
 
+![Statistiques](./img/7.png)
+
 L'onglet Statistiques fournit des données chiffrées sur les performances de votre site. Vous y trouverez des informations détaillées sur :
 
 - Le nombre de visiteurs

@@ -9,6 +9,8 @@ sidebar_position: 4
 
 ## Modifier la Section
 
+![Section](./img/20.jpg)
+
 Les sections sont des éléments essentiels pour structurer votre page. Voici comment les modifier :
 
 ### Modifier la Section
@@ -22,6 +24,8 @@ Lorsque vous survolez une section que vous avez créée, elle est encadrée en r
 Pour toute question, n'hésitez pas à contacter notre service technique à internet@meosis.fr.
 
 ## Modifier une Colonne
+
+![Colonne](./img/21.jpg)
 
 Vous pouvez également modifier une colonne en effectuant un clic droit en haut à gauche sur l'icône grise. Un menu apparaît ensuite avec différentes options de modification. Vous pouvez par exemple supprimer ou dupliquer la colonne.
 

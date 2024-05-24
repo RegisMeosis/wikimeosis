@@ -7,6 +7,8 @@ sidebar_position: 4
 
 # Découverte de l'Onglet Pages : Gestion des Pages
 
+![Pages](./img/9.png)
+
 L'onglet Pages vous permet de gérer facilement toutes les pages de votre site web. Explorez cette section pour modifier le contenu des pages existantes ou créer de nouvelles pages selon vos besoins.
 
 ## Modification des Pages Existantes
@@ -22,6 +24,8 @@ Pour modifier le contenu d'une page existante, survolez le titre de la page dans
 Pour créer une nouvelle page et l'ajouter à votre site, cliquez sur le bouton "Ajouter". Cela ouvrira l'outil de création de pages.
 
 #### Dans l'Outil de Création de Page
+
+![Création](./img/10.png)
 
 1. Ajoutez un titre à votre nouvelle page.
 2. Cliquez sur "Enregistrer le brouillon" pour enregistrer le titre de la page.

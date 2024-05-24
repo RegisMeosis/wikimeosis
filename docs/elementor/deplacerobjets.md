@@ -9,6 +9,8 @@ sidebar_position: 6
 
 Bienvenue dans le guide sur la gestion de l'ordre des éléments avec Elementor ! Avec Elementor, vous avez un contrôle total sur la disposition de votre page.
 
+![ordre](./img/25.jpg)
+
 ## Déplacer les sections
 
 Les sections sont les blocs principaux de votre page. Voici comment les déplacer :

@@ -13,6 +13,8 @@ Les widgets sont des éléments de blocs déplaçables qui vous permettent de pe
 
 ### Utilisations courantes
 
+![prix](./img/50.jpg)
+
 La Liste de prix est idéale pour présenter les caractéristiques et les tarifs de vos produits ou services. Vous pouvez personnaliser chaque élément de la liste en cliquant sur les menus "Xème élément de la liste".
 
 ### Possibilités créatives
@@ -20,6 +22,8 @@ La Liste de prix est idéale pour présenter les caractéristiques et les tarifs
 Avec un peu de créativité, vous pouvez utiliser le widget Liste de prix pour créer une carte de restaurant, une frise chronologique ou tout autre élément visuel adapté à vos besoins.
 
 ### Personnalisation de la Liste de prix
+
+![prix](./img/49.jpg)
 
 Explorez les options de personnalisation disponibles pour ajuster l'apparence de votre Liste de prix, telles que la mise en page, les couleurs, les polices, etc.
 

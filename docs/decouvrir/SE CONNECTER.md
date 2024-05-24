@@ -10,6 +10,7 @@ sidebar_position: 2
 Bienvenue sur Jerico, votre espace sécurisé pour gérer vos données en toute simplicité !
 
 ## Se connecter
+![connecter](./img/4.png)
 
 Pour vous connecter à Jerico, suivez ces étapes simples :
 
@@ -21,6 +22,7 @@ Pour vous connecter à Jerico, suivez ces étapes simples :
 Et voilà ! Vous êtes maintenant connecté à Jerico et prêt à explorer ses fonctionnalités.
 
 ## Interface Jerico
+![connecter](./img/5.png)
 
 Découvrez les éléments du menu :
 

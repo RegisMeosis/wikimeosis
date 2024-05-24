@@ -9,7 +9,7 @@ sidebar_position: 1
 
 ## Qu'est-ce que Jerico ?
 
-![Jerico](./img/jerico.JPG)
+![Jerico](./img/jerico-removebg-preview.png)
 
 Jerico est un outil simplifié conçu par les équipes techniques de Meosis pour vous permettre de modifier facilement le contenu (textes et photos) de votre site web. Il offre également un accès pratique à toutes les informations essentielles pour suivre les performances de votre site.
 

@@ -13,7 +13,11 @@ Les widgets sont des éléments de blocs déplaçables qui vous permettent de pe
 
 ### Utilisations courantes
 
+![Boîte](./img/54.jpg)
+
 Le widget Boîte d’image est idéal pour mettre en avant vos dernières sorties ou vos produits phares. Il combine les fonctionnalités de plusieurs widgets déjà vus, vous permettant d'éditer tous les contenus à la manière d'Image, Texte et Titre en cliquant dessus.
+
+![Boîte](./img/53.jpg)
 
 N'hésitez pas à explorer les possibilités offertes par le widget Boîte d’image pour créer des mises en page attrayantes et captivantes.
 

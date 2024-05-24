@@ -160,10 +160,6 @@ const config = {
                 href: "https://www.meoprod.fr/",
               },
               {
-                label: "MeoCalendar",
-                href: "https://www.meosis.fr/meocalendar.html",
-              },
-              {
                 label: "Meo&Co",
                 href: "https://meoandco.fr/",
               },

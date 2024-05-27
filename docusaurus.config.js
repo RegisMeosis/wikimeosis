@@ -55,7 +55,7 @@ const config = {
       ({
         docs: {
           admonitions: {
-            keywords: ['jerico-alert'],
+            keywords: ['jerico-alert', 'info-jerico', 'note-jerico', 'success-jerico', 'tips-jerico'],
             extendDefaults: true,
           },
           sidebarPath: "./sidebars.js",

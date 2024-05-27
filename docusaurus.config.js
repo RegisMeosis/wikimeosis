@@ -103,8 +103,7 @@ const config = {
         placeholder: "Jerico Search",
       },
 
-      // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/meosis-jerico-miniature.jpg",
       navbar: {
         logo: {
           alt: "Logo du site",

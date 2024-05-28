@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ## Simplification de la Gestion
 
-![gestion](./img/62.png)
+<image align="center" src="./img/62.png" alt="Gestion" width="400px"/>
 
 La gestion de vos actualités est un processus simple et intuitif. Dans le menu de gauche, accédez à l'onglet "Actualités" pour :
 
@@ -17,15 +17,22 @@ La gestion de vos actualités est un processus simple et intuitif. Dans le menu 
 - Modifier les actualités existantes ;
 - Supprimer une ou plusieurs actualités selon vos besoins.
 
-Une question ? Contactez notre équipe technique à internet@meosis.fr.
-
 ## Navigation Facile
 
-![gestion](./img/63.png)
+<image align="center" src="./img/63.png" alt="Gestion" width="400px"/>
 
 Naviguez facilement à travers la liste de vos actualités pour effectuer les actions nécessaires. Après avoir cliqué sur l'onglet "Actualités", vous aurez accès à une liste complète de toutes les actualités présentes sur votre site. Pour effectuer des modifications :
 
 - Survolez l'actualité souhaitée.
 - Choisissez parmi les options qui apparaissent, telles que "Modifier" ou "Supprimer".
 
-Gérez vos actualités en toute simplicité pour rester constamment à jour et informer votre audience.
+
+:::tips-jerico[Tips]
+
+Utilisez des images de qualité et des titres accrocheurs pour maximiser l'impact de chaque publication.
+
+:::
+
+
+\
+Si vous avez des questions, n'hésitez pas à contacter notre équipe technique à [internet@meosis.fr](mailto:internet@meosis.fr).

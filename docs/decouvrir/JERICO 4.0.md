@@ -15,7 +15,7 @@ Jerico est un outil simplifié conçu par les équipes techniques de Meosis pour
 
 
 
-:::tips-jerico[Pourquoi Jerico 4.0 ?]
+:::info-jerico[Pourquoi Jerico 4.0 ?]
 
 **Jerico 4.0** est la dernière version, la plus aboutie, qui a été pensée pour vous offrir une expérience de modification de site web encore plus fluide et intuitive. Grâce à Jerico 4.0, la prise en main de votre site est simplifiée, vous permettant d'effectuer des modifications rapidement et efficacement.
 :::

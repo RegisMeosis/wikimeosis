@@ -27,6 +27,11 @@ Pour afficher votre propre vidéo, éditez le lien dans le widget et insérez-y 
 
 Explorez les options de personnalisation disponibles pour ajuster l'apparence et le comportement de votre vidéo. Vous pouvez modifier la taille, la disposition, les contrôles de lecture, le volume, etc.
 
-N'hésitez pas à expérimenter avec les différentes configurations pour créer des intégrations vidéo attrayantes et engageantes sur votre page.
+:::tips-jerico[N'hésitez pas !]
 
+N'hésitez pas à explorer et à expérimenter avec les différents widgets que propose l'outil Elementor. Laissez libre cours à votre créativité pour créer des mises en page uniques et attrayantes. 
+
+:::
+
+\
 Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

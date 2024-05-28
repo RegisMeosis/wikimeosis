@@ -34,6 +34,14 @@ Une fois vos médias importés, vous pouvez les utiliser directement dans la con
 
 Assurez-vous que vos images respectent les normes de taille et de poids recommandées :
 
-- **Limite de Poids :** Notez qu'il existe une limite de poids pour les images. Utilisez des outils en ligne pour compresser vos images avant de les importer.
 
+:::info-jerico[Limite de Poids ]
+
+Notez qu'il existe une limite de poids pour les images. \
+Utilisez des outils en ligne pour compresser vos images avant de les importer.\
+Nous vous recommandons de ne pas dépasser une taille de fichier de 300 ko pour vos images. Si votre image dépasse cette limite, vous pouvez la compresser en utilisant des outils en ligne tels que https://www.iloveimg.com/.
+
+:::
+
+\
 L'onglet Médias est un outil essentiel pour gérer efficacement vos ressources visuelles. Explorez ses fonctionnalités pour tirer le meilleur parti de votre médiathèque et enrichir votre site avec des contenus visuellement attractifs.

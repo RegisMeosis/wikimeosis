@@ -25,7 +25,12 @@ Dans la fenêtre des paramètres, vous trouverez trois catégories sur la gauche
 
 ![popup](./img/80.png)
 
+:::note-jerico[Recomandation]
+
 Il est recommandé d'inclure votre popup sur la page d'accueil uniquement, comme indiqué dans l'exemple ci-dessus.
+
+:::
+
 
 ### Programmation de la Popup (4)
 
@@ -37,7 +42,11 @@ Ensuite, dans la section "Déclencheurs", déterminez l'action qui initiéra l'a
 
 ![popup](./img/82.png)
 
+:::tips-jerico[Tips]
+
 Nous vous conseillons de sélectionner le chargement de la page comme déclencheur principal, en ajoutant un temps de chargement si nécessaire.
+
+:::
 
 ### Programmation de la Popup (6)
 

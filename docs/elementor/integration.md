@@ -20,8 +20,6 @@ L'intégration de widgets dans une section avec Elementor est simple et intuitiv
 3. Cliquez sur ce symbole "+" pour afficher la colonne des widgets à gauche.
 4. Explorez les widgets disponibles et sélectionnez celui que vous souhaitez intégrer dans votre section.
 
-Pour des détails sur les différents widgets disponibles, référez-vous au chapitre "Les Widgets". Pour toute question, contactez notre service technique à internet@meosis.fr.
-
 ## Ajout de Widgets
 
 ![contenu](./img/22.jpg)
@@ -34,8 +32,13 @@ Ajouter des widgets à votre section est facile avec Elementor :
 
 ![contenu](./img/23.jpg)
 
+:::info-jerico[Info]
+
 Vous pouvez ajouter plusieurs widgets dans une colonne, et ils seront affichés les uns en dessous des autres.
 
+:::
+
+\
 Pour accéder à la liste complète des widgets, cliquez sur l'icône en haut à droite du panneau de modification à gauche. Par exemple, dans notre exemple, nous avons ajouté un widget "Titre" et un widget "Éditeur de texte" dans la colonne de gauche, et un widget "Image" dans la colonne de droite.
 
 Besoin d'aide supplémentaire ? N'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

@@ -30,6 +30,11 @@ Pour ajouter une image, suivez ces étapes simples :
 
 Explorez les options de personnalisation disponibles pour ajuster l'apparence de votre image, telles que la taille, l'alignement, les marges, etc.
 
-N'hésitez pas à expérimenter avec les différentes configurations pour créer des mises en page visuellement attrayantes.
+:::tips-jerico[N'hésitez pas !]
 
+N'hésitez pas à explorer et à expérimenter avec les différents widgets que propose l'outil Elementor. Laissez libre cours à votre créativité pour créer des mises en page uniques et attrayantes. 
+
+:::
+
+\
 Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

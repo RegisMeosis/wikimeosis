@@ -19,6 +19,11 @@ Le widget Boîte d’image est idéal pour mettre en avant vos dernières sortie
 
 ![Boîte](./img/53.jpg)
 
-N'hésitez pas à explorer les possibilités offertes par le widget Boîte d’image pour créer des mises en page attrayantes et captivantes.
+:::tips-jerico[N'hésitez pas !]
 
+N'hésitez pas à explorer et à expérimenter avec les différents widgets que propose l'outil Elementor. Laissez libre cours à votre créativité pour créer des mises en page uniques et attrayantes. 
+
+:::
+
+\
 Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

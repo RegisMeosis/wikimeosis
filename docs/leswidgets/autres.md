@@ -17,6 +17,11 @@ Le menu Elementor situé sur la gauche de votre écran répertorie toutes les ac
 
 ### Expérimentez avec les Widgets
 
+:::tips-jerico[N'hésitez pas !]
+
 N'hésitez pas à explorer et à expérimenter avec les différents widgets que propose l'outil Elementor. Laissez libre cours à votre créativité pour créer des mises en page uniques et attrayantes. 
 
+:::
+
+\
 Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

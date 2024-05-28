@@ -27,6 +27,11 @@ Avec un peu de créativité, vous pouvez utiliser le widget Liste de prix pour c
 
 Explorez les options de personnalisation disponibles pour ajuster l'apparence de votre Liste de prix, telles que la mise en page, les couleurs, les polices, etc.
 
-N'hésitez pas à expérimenter avec les différentes configurations pour créer des mises en page uniques et attrayantes.
+:::tips-jerico[N'hésitez pas !]
 
+N'hésitez pas à explorer et à expérimenter avec les différents widgets que propose l'outil Elementor. Laissez libre cours à votre créativité pour créer des mises en page uniques et attrayantes. 
+
+:::
+
+\
 Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

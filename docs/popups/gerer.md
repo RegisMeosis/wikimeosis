@@ -24,7 +24,12 @@ Pour gérer vos popups, suivez ces étapes simples :
 
 ![Contenu](./img/74.png)
 
+
+:::info-jerico[liste des "Popups"]
+
 Après avoir cliqué sur l'onglet "Popups", vous verrez la liste de tous les modèles que vous avez créés. Vous pouvez facilement modifier le contenu ou supprimer une popup en survolant celle-ci et en choisissant parmi les options qui apparaissent.
+
+:::
 
 ## Un ajout en un seul clic
 

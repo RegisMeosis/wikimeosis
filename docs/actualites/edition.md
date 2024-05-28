@@ -25,12 +25,19 @@ Après avoir rédigé le contenu, sélectionnez la catégorie appropriée qui co
 
 ## Image à la Une
 
+:::jerico-alert[Image à la Une]
+
 ![Contenu](./img/69.png)
 
 N'oubliez pas d'ajouter une image mise en avant, qui servira d'illustration principale pour votre actualité et apparaîtra souvent en tête de celle-ci.
+:::
 
 ## Publication de l'Actualité
 
 Une fois tous les paramètres définis, vous pouvez publier votre actualité en cliquant sur le bouton correspondant dans le cadre de droite de l'écran. Si vous avez simplement effectué des modifications sur une actualité existante, assurez-vous de cliquer sur "Mettre à jour" pour sauvegarder vos changements.
 
+:::success-jerico[Félicitations ! Vous venez de publier votre actualité !]
+
+:::
+\
 Pour toute question ou assistance, n'hésitez pas à contacter notre service technique à l'adresse internet@meosis.fr.

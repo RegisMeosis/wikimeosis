@@ -19,7 +19,11 @@ Elementor est un constructeur de pages intuitif qui vous permet de créer des si
 - **Personnalisation visuelle** : Personnalisez tous les aspects de votre site, du design global jusqu'aux détails les plus fins, en temps réel.
 - **Variété de modèles et de widgets** : Explorez une large gamme de modèles préconçus et de widgets personnalisables pour créer un site professionnel qui correspond à vos besoins.
 
+:::tips-jerico
+
 Que vous soyez un débutant en création de site web ou un professionnel aguerri, Elementor offre une expérience de conception fluide et flexible pour réaliser vos projets en toute simplicité.
+
+:::
 
 ### Pour commencer avec Elementor :
 

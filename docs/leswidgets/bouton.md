@@ -30,6 +30,11 @@ Pour personnaliser votre bouton, suivez ces étapes simples :
 1. Cliquez sur le champ "Lien" et collez l'adresse de la page vers laquelle vous souhaitez diriger vos visiteurs.
 2. Explorez les options de personnalisation disponibles, telles que la couleur, la taille et le style du bouton.
 
-N'hésitez pas à expérimenter avec les différentes configurations pour créer un bouton qui correspond parfaitement à votre style et à vos besoins.
+:::tips-jerico[N'hésitez pas !]
 
+N'hésitez pas à explorer et à expérimenter avec les différents widgets que propose l'outil Elementor. Laissez libre cours à votre créativité pour créer des mises en page uniques et attrayantes. 
+
+:::
+
+\
 Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

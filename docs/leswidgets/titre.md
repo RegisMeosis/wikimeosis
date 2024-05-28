@@ -23,6 +23,11 @@ Le widget Titre peut être utilisé pour titrer vos paragraphes, organiser vos s
 
 Pour éditer votre titre, cliquez simplement sur le bloc et modifiez-le comme vous éditeriez du texte. Explorez les options de personnalisation disponibles pour ajuster le style, la taille, la couleur et la mise en forme de votre titre.
 
-N'hésitez pas à expérimenter avec les différentes configurations pour créer des titres percutants qui captent l'attention de vos visiteurs.
+:::tips-jerico[N'hésitez pas !]
 
+N'hésitez pas à explorer et à expérimenter avec les différents widgets que propose l'outil Elementor. Laissez libre cours à votre créativité pour créer des mises en page uniques et attrayantes. 
+
+:::
+
+\
 Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

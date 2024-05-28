@@ -27,6 +27,11 @@ Si votre contenu se trouve déjà dans votre médiathèque WordPress, vous pouve
 
 Explorez les options de personnalisation disponibles pour ajuster l'apparence de votre galerie, telles que la disposition des images, les marges, les effets de transition, etc.
 
-N'hésitez pas à expérimenter avec les différentes configurations pour créer une galerie qui correspond parfaitement à votre style et à vos besoins.
+:::tips-jerico[N'hésitez pas !]
 
+N'hésitez pas à explorer et à expérimenter avec les différents widgets que propose l'outil Elementor. Laissez libre cours à votre créativité pour créer des mises en page uniques et attrayantes. 
+
+:::
+
+\
 Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.

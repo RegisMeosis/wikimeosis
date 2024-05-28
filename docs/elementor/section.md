@@ -11,8 +11,13 @@ sidebar_position: 3
 
 ![section](./img/18.jpg)
 
+:::info-jerico[Section]
+
 Une section est un élément fondamental pour structurer une page dans Elementor. Elle offre la possibilité de choisir la disposition des blocs tels que les images, le texte, etc., que vous pourrez ajouter par la suite à l'aide des widgets.
 
+:::
+
+\
 Pour ajouter une section, suivez ces étapes simples :
 
 1. Cliquez sur le bouton rose **+** qui s'affiche en bas de la page, sous les sections déjà présentes.

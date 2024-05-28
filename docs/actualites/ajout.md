@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # Ajouter des Actualités : Informer vos Clients et Prospects
 
-## Un Moyen Pratique de Communication
+
 
 ![gestion](./img/64.png) ![gestion](./img/65.png)
 
@@ -23,8 +23,9 @@ Pour ajouter une nouvelle actualité, suivez ces étapes simples :
 
 4. Une fois votre article prêt, enregistrez-le ou publiez-le selon vos besoins.
 
-## Facilité de Création
+:::note-jerico[Facilité de Création]
 
 Ajouter des actualités à votre site est un processus simple et rapide. Vous pouvez mettre à jour votre contenu régulièrement pour garder votre audience engagée et informée.
 
 Besoin d'aide ? Contactez notre équipe technique à internet@meosis.fr.
+:::

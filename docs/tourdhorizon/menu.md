@@ -24,15 +24,12 @@ Commencez par sélectionner les pages et les liens que vous souhaitez inclure da
 
 ### Sauvegarde et Publication
 
-Une fois vos modifications apportées, n'oubliez pas de les enregistrer pour les rendre effectives sur votre site :
-
 :::jerico-alert[Rappel]
 
-Une fois vos modifications apportées, n'oubliez pas de les enregistrer pour les rendre effectives sur votre site 
+Une fois vos modifications apportées, n'oubliez pas de les enregistrer pour les rendre effectives sur votre site.
+**Enregistrer le Menu :** Cliquez sur le bouton "Enregistrer le menu" pour sauvegarder vos changements et les appliquer à votre site.
 
 :::
 
 \
-**Enregistrer le Menu :** Cliquez sur le bouton "Enregistrer le menu" pour sauvegarder vos changements et les appliquer à votre site.
-
 L'onglet Menu offre un contrôle complet sur la navigation de votre site, vous permettant de créer une expérience utilisateur optimale. Explorez ses fonctionnalités pour personnaliser votre menu selon les besoins de votre site.

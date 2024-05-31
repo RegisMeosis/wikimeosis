@@ -59,14 +59,12 @@ const config = {
             extendDefaults: true,
           },
           sidebarPath: "./sidebars.js",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+
           editUrl: "https://github.com/RegisMeosis/wikimeosis/blob/main",
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+
           editUrl: "https://github.com/RegisMeosis/wikimeosis/blob/main",
         },
         theme: {
@@ -88,7 +86,7 @@ const config = {
       },
 
       colorMode: {
-        defaultMode: "dark",
+        defaultMode: "light",
       },
 
       docs: {

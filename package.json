@@ -25,7 +25,9 @@
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-instantsearch": "^7.7.1"
+    "react-instantsearch": "^7.7.1",
+    "react-intersection-observer": "^9.10.2",
+    "react-spring": "^9.7.3"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.3.2",

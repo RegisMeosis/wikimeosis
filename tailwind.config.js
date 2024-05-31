@@ -2,7 +2,28 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx,md,mdx}", "./docs/**/*.{md,mdx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'greencustom': '#8DC63F',
+        'greencustom2': '#708952',
+        'gris': '#666666',
+      },
+      animation: {
+        'fade-in': 'fadeIn 2s ease-in-out',
+        'slide-in': 'slideIn 2s ease-in-out',
+        bounce: 'bounce 2s infinite',
+      },
+      keyframes: {
+        fadeIn: {
+          '0%': { opacity: 0 },
+          '100%': { opacity: 1 },
+        },
+        slideIn: {
+          '0%': { transform: 'translateY(20px)', opacity: 0 },
+          '100%': { transform: 'translateY(0)', opacity: 1 },
+        },
+      },
+    },
   },
   plugins: [],
   darkMode: ["class", '[data-theme="dark"]'],
@@ -13,6 +34,8 @@ module.exports = {
   colors: {
     'green': '#8dc740',
     'green2': '#708952',
+    'gris': '#666666',
+
   },
   fontFamily: {
     'body': ['"Roboto"'],

@@ -1,15 +1,17 @@
-import clsx from "clsx";
-import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import Heading from "@theme/Heading";
-import styles from "./index.module.css";
+import HeroSection from "../components/HeroSection"; 
+import IntroductionSection from "../components/IntroductionSection";
+import FeaturesSection from "../components/FeaturesSection";
+import TutorialsSection from "../components/TutorialsSection";
+import FAQSection from "../components/FAQSection";
+
+
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header
-    >
+    <header>
     </header>
   );
 }
@@ -23,49 +25,11 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        <section className="container padding-vert--xl">
-          <div className="row">
-            <div className="col col--6">
-              <Heading as="h2">Bienvenue sur le guide Jerico !</Heading>
-              <p>
-              La Formation Jerico est votre ressource incontournable pour maîtriser toutes les
-                fonctionnalités de votre site internet.
-              </p>
-              <p>
-                Vous y trouverez des tutoriels détaillés, des guides, des exemples, ainsi que des astuces pour exploiter pleinement les capacités de
-                Jerico.
-              </p>
-              <div> <Link
-            className="button button--secondary button--lg  hover:bg-green-500"
-            to="/docs/category/découvrir-jerico"
-            style={{ marginLeft: "10px", marginRight: "10px" }} 
-          >
-            Formation Jerico
-          </Link></div>
-              
-            </div>
-            
-            <div className="col col--6">
-              <img
-                src="/img/logo-meosis.svg"
-                alt="Bienvenue"
-                style={{ maxWidth: "100%", height: "auto" }}
-              />
-            </div>
-          </div>
-        </section>
-        <section
-          style={{
-            position: "relative",
-            overflow: "hidden",
-            width: "100%",
-            height: "50vh", // Ajustez la hauteur selon vos besoins
-            background: "transparent",
-          }}
-        >
-           
-            
-        </section>
+        <HeroSection />
+        <IntroductionSection />
+        <FeaturesSection />
+        <TutorialsSection />
+        <FAQSection />
       </main>
     </Layout>
   );

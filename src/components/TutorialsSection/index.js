@@ -2,7 +2,7 @@ import React from 'react';
 
 const TutorialsSection = () => {
   return (
-    <section className="py-20 bg-white dark:bg-gray-800">
+    <section className="py-20 bg-white dark:bg-gray-800 drop-shadow-xl">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-12">
           <h2 className="text-3xl font-bold text-greencustom mb-4">Tutoriels pour Utiliser Jerico</h2>
@@ -32,7 +32,7 @@ const TutorialsSection = () => {
 
         </div>
 
-        <div className="w-60 h-1 bg-greencustom m-auto mt-10 rounded-full"></div>
+        <div className="w-60 h-1 bg-gradient-to-bl from-green-500 via-green-400 to-green-400  m-auto mt-10 rounded-full"></div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">
         <TutorialCard
@@ -56,7 +56,7 @@ const TutorialsSection = () => {
 
         </div>
         <div className="flex justify-center mt-8">
-          <a href="/guide" className="button-transition bg-greencustom text-white font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:no-underline hover:text-white mt-5">
+          <a href="/guide" className="button-transition bg-gradient-to-bl from-green-500 via-green-400 to-green-400  text-white font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:no-underline hover:text-white mt-5">
             Découvrir le guide
           </a>
         </div>
@@ -70,7 +70,7 @@ const TutorialCard = ({ title, description, link, emoji }) => {
 
   return (
     <div 
-      className={`border-t-4 shadow-lg bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md border-greencustom border-4 relative overflow-hidden h-60 hover:scale-105 ease-in-out duration-300 selector-pointer hover:shadow-xl hover:bg-greencustom hover:h3:text-white`}
+      className={`border-t-4 shadow-lg bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md border-greencustom border-4 relative overflow-hidden h-60 hover:scale-105 ease-in-out duration-300 selector-pointer hover:shadow-xl hover:bg-greencustom hover:h3:text-white drop-shadow-xl`}
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >

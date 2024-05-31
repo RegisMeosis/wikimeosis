@@ -13,17 +13,13 @@ export default function HeroSection() {
 
   useEffect(() => {
     const section = sectionRef.current;
-    const button = section.querySelector('.animate-button');
-
     const handleScroll = () => {
       const scrollPosition = window.scrollY;
       const sectionOffsetTop = section.offsetTop;
       const sectionHeight = section.offsetHeight;
 
       if (scrollPosition > sectionOffsetTop - window.innerHeight + sectionHeight / 2) {
-        button.classList.add('animate-grow');
-      } else {
-        button.classList.remove('animate-grow');
+        section.classList.add('animate');
       }
     };
 
@@ -40,31 +36,31 @@ export default function HeroSection() {
       style={animationProps}
       className="relative flex items-center justify-center h-screen bg-gradient-to-br from-green-500 via-green-400 to-green-300 overflow-hidden"
     >
-      <div className="container mx-auto flex flex-col md:flex-row">
-        <div className="w-full md:w-1/2 text-center md:text-left">
+      <div className="container mx-auto flex flex-col md:flex-row ">
+        <div className="w-full md:w-1/2 text-center md:text-left ">
           <img
-            src="/img/logo-meosis.svg" // Assurez-vous de placer votre image dans le dossier public/img/
+            src="/img/logo-meosis.svg" 
             alt="Logo Meosis"
-            className="mx-auto w-48 md:w-auto mb-6 animate-fade-in"
+            className="mx-auto w-48 md:w-auto mb-6 animate-fade-in drop-shadow-xl"
           />
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 animate-slide-in">
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 animate-slide-in drop-shadow-xl dark:text-gray-700">
             Guide d'Utilisation de Jerico 4.0
           </h1>
-          <p className="text-lg text-white mb-8 animate-slide-in">
+          <p className="text-lg text-white mb-8 animate-slide-in drop-shadow-xl dark:text-gray-600">
             Simplifiez la Modification de votre Site Web avec le Back Office Jerico
           </p>
           <a
             href="/docs/category/découvrir-jerico"
-            className="bg-white text-green-500 font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:no-underline hover:text-white hover:bg-green-500 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2 focus:ring-offset-white animate-button"
+            className="border-4 border-white button-transition bg-gradient-to-bl from-green-500 via-green-400 to-green-400  text-white font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:no-underline hover:text-white mt-5 "
           >
             Commencer
           </a>
         </div>
-        <div className="hidden md:block md:w-1/2 overflow-hidden">
+        <div className="hidden md:block md:w-1/2 overflow-hidden drop-shadow-xl">
           <img
             src="/img/landing.png" // Assurez-vous de placer votre image dans le dossier public/img/
             alt="Illustration Jerico"
-            className="w-full h-auto animate-slide-in"
+            className="w-full h-auto animate-slide-in drop-shadow-xl"
           />
         </div>
       </div>

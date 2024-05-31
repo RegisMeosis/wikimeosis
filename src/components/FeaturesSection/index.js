@@ -6,7 +6,7 @@ const FeaturesSection = () => {
     <section className="py-20 bg-gradient-to-br from-green-500 via-green-400 to-green-300">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-12">
-          <h2 className="text-3xl font-bold text-white mb-4 dark:text-gray-700">Fonctionnalités de Jerico 4.0</h2>
+          <h2 className="text-3xl font-bold text-white mb-4 dark:text-gray-700 drop-shadow-xl">Fonctionnalités de Jerico 4.0</h2>
         </div>
         <div className={styles.cards}>
           <FeatureCard
@@ -35,7 +35,7 @@ const FeaturesSection = () => {
 
 const FeatureCard = ({ title, description, icon, link }) => {
   return (
-    <div className={`${styles.card} bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md mb-4`}>
+    <div className={`${styles.card} bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md mb-4 drop-shadow-xl`}>
       <div className="text-center mb-4 text-4xl">
         {icon}
       </div>

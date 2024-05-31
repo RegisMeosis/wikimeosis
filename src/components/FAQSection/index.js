@@ -8,8 +8,8 @@ const FAQSection = () => {
   };
 
   return (
-    <section className="py-20  bg-gradient-to-br from-green-500 via-green-400 to-green-300">
-      <div className="max-w-3xl mx-auto text-center mb-12">
+    <section className="py-20  bg-gradient-to-br from-green-500 via-green-400 to-green-300 drop-shadow-xl">
+      <div className="max-w-3xl mx-auto text-center mb-12 drop-shadow-xl">
         <h2 className="text-3xl font-bold text-white dark:text-gray-700">Questions Fréquemment Posées</h2>
         <p className="text-gray-700 dark:text-black">
           Retrouvez ici les réponses aux questions les plus courantes.

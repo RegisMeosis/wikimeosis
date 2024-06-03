@@ -32,7 +32,7 @@ const TutorialsSection = () => {
 
         </div>
 
-        <div className="w-60 h-1 bg-gradient-to-bl from-green-500 via-green-400 to-green-400  m-auto mt-10 rounded-full"></div>
+        <div className="w-60 h-1 bg-greencustom  m-auto mt-10 rounded-full"></div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">
         <TutorialCard
@@ -56,7 +56,7 @@ const TutorialsSection = () => {
 
         </div>
         <div className="flex justify-center mt-8">
-          <a href="/guide" className="button-transition bg-gradient-to-bl from-green-500 via-green-400 to-green-400  text-white font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:no-underline hover:text-white mt-5">
+          <a href="/guide" className="button-transition bg-greencustom  text-white font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:no-underline hover:text-white mt-5">
             Découvrir le guide
           </a>
         </div>
@@ -75,8 +75,8 @@ const TutorialCard = ({ title, description, link, emoji }) => {
       onMouseLeave={() => setIsHovered(false)}
     >
       <div className="mb-4">
-        <h3 className={`dark:text-white text-xl font-semibold text-gray-800 mb-2 ${isHovered ? 'text-white' : ''}`}>{title}</h3>
-        <p className={`text-gray-800 dark:text-gray-300 ${isHovered ? 'text-white' : ''}`}>{description}</p>
+        <h3 className={`text-center dark:text-white text-xl font-semibold text-gray-800 mb-2 ${isHovered ? 'text-white' : ''}`}>{title}</h3>
+        <p className={`text-center text-gray-800 dark:text-gray-300 ${isHovered ? 'text-white' : ''}`}>{description}</p>
         <div className={`text-center text-4xl mt-4 transition-opacity duration-300 ${isHovered ? 'opacity-0' : 'opacity-100'}`}>
           {emoji}
         </div>

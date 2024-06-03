@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       colors: {
         'greencustom': '#8DC63F',
-        'greencustom2': '#708952',
+        'greencustom2': '#7DB234',
+        'greencustom3': '#6EA027',
         'gris': '#666666',
       },
       animation: {

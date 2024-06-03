@@ -3,7 +3,7 @@ import styles from './styles.module.css';
 
 const FeaturesSection = () => {
   return (
-    <section className="py-20 bg-gradient-to-br from-green-500 via-green-400 to-green-300">
+    <section className="py-20  bg-gradient-to-br from-greencustom via-greencustom2 to-greencustom3">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-12">
           <h2 className="text-3xl font-bold text-white mb-4 dark:text-gray-700 drop-shadow-xl">Fonctionnalités de Jerico 4.0</h2>

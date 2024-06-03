@@ -35,3 +35,4 @@ N'hésitez pas à explorer et à expérimenter avec les différents widgets que 
 
 \
 Pour toute question supplémentaire ou assistance, n'hésitez pas à contacter notre équipe technique à internet@meosis.fr.
+

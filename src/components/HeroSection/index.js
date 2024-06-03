@@ -34,7 +34,7 @@ export default function HeroSection() {
     <animated.section
       ref={sectionRef}
       style={animationProps}
-      className="relative flex items-center justify-center h-screen bg-gradient-to-br from-green-500 via-green-400 to-green-300 overflow-hidden"
+      className="relative flex items-center justify-center h-screen  bg-gradient-to-br from-greencustom via-greencustom2 to-greencustom3 overflow-hidden"
     >
       <div className="container mx-auto flex flex-col md:flex-row ">
         <div className="w-full md:w-1/2 text-center md:text-left ">
@@ -51,10 +51,11 @@ export default function HeroSection() {
           </p>
           <a
             href="/docs/category/découvrir-jerico"
-            className="border-4 border-white button-transition bg-gradient-to-bl from-green-500 via-green-400 to-green-400  text-white font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:no-underline hover:text-white mt-5 "
+            className="hover:bg-gray-100 hover:text-customgreen button-transition bg-white text-customgreen font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-110 hover:no-underline mt-5 dark:bg-gray-700 dark:text-greencustom dark:hover:bg-gray-800"
           >
             Commencer
           </a>
+          
         </div>
         <div className="hidden md:block md:w-1/2 overflow-hidden drop-shadow-xl">
           <img

@@ -39,19 +39,19 @@ export default function HeroSection() {
       <div className="container mx-auto flex flex-col md:flex-row ">
         <div className="w-full md:w-1/2 text-center md:text-left ">
           <img
-            src="/img/logo-meosis.svg" 
+            src="/img/logo-meosis-blanc.svg" 
             alt="Logo Meosis"
-            className="mx-auto w-48 md:w-auto mb-6 animate-fade-in drop-shadow-xl"
+            className="mx-auto w-48 md:w-auto mb-6 animate-fade-in drop-shadow-xl border border-white"
           />
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 animate-slide-in drop-shadow-xl dark:text-gray-700">
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 animate-slide-in drop-shadow-xl dark:text-gris">
             Guide d'Utilisation de Jerico 4.0
           </h1>
-          <p className="text-lg text-white mb-8 animate-slide-in drop-shadow-xl dark:text-gray-600">
+          <p className="text-lg text-white mb-8 animate-slide-in drop-shadow-xl dark:text-gris">
             Simplifiez la Modification de votre Site Web avec le Back Office Jerico
           </p>
           <a
             href="/docs/category/découvrir-jerico"
-            className="hover:bg-gray-100 hover:text-customgreen button-transition bg-white text-customgreen font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-110 hover:no-underline mt-5 dark:bg-gray-700 dark:text-greencustom dark:hover:bg-gray-800"
+            className="hover:bg-gray-100 hover:text-customgreen button-transition bg-white text-customgreen font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-110 hover:no-underline mt-5 dark:bg-gris dark:text-greencustom dark:hover:bg-gray-00"
           >
             Commencer
           </a>

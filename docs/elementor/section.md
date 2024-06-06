@@ -1,7 +1,7 @@
 ---
 id: elementor_creer_section
 title: Créer une section
-sidebar_label: Créer une section
+sidebar_label:  ➕ Créer une section
 sidebar_position: 3
 ---
 

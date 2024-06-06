@@ -1,7 +1,7 @@
 ---
 id: ajouter_actualites
 title: Ajouter des Actualités
-sidebar_label: Ajouter des Actualités
+sidebar_label: ➕ Ajouter des Actualités
 sidebar_position: 3
 ---
 

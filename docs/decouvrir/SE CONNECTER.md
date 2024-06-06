@@ -1,7 +1,7 @@
 ---
 id: connexion
 title: Se connecter à Jerico
-sidebar_label: Se connecter
+sidebar_label: 🔗 Se connecter
 sidebar_position: 2
 ---
 

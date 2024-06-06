@@ -1,7 +1,7 @@
 ---
 id: elementor_widget_liste_de_prix
 title: Widget Liste de prix
-sidebar_label: Widget Liste de prix
+sidebar_label: 💰 Widget Liste de prix
 sidebar_position: 8
 ---
 

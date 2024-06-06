@@ -1,7 +1,7 @@
 ---
 id: elementor_widget_video
 title: Widget Vidéo
-sidebar_label: Widget Vidéo
+sidebar_label: 📹 Widget Vidéo
 sidebar_position: 4
 ---
 

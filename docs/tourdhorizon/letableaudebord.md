@@ -1,7 +1,7 @@
 ---
 id: tableaudebord
 title: Découverte du Tableau de Bord
-sidebar_label: Tableau de Bord
+sidebar_label: 📊 Tableau de Bord
 sidebar_position: 1
 ---
 

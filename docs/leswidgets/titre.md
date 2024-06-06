@@ -1,7 +1,7 @@
 ---
 id: elementor_widget_titre
 title: Widget Titre
-sidebar_label: Widget Titre
+sidebar_label: 🏷️ Widget Titre
 sidebar_position: 21
 ---
 

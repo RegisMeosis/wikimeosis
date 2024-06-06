@@ -1,7 +1,7 @@
 ---
 id: elementor_widget_image
 title: Widget Image
-sidebar_label: Widget Image
+sidebar_label: 🖼️ Widget Image
 sidebar_position: 2
 ---
 

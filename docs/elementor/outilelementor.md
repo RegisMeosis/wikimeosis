@@ -1,7 +1,7 @@
 ---
 id: elementor
 title: Découverte de l'outil Elementor
-sidebar_label: Outil Elementor
+sidebar_label: 🛠️ Outil Elementor
 sidebar_position: 1
 ---
 

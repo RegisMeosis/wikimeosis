@@ -1,7 +1,7 @@
 ---
 id: elementor_widget_section_interne
 title: Widget Section interne
-sidebar_label: Widget Section interne
+sidebar_label: ➕ Widget Section interne
 sidebar_position: 25
 ---
 

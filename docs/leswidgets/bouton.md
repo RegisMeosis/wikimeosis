@@ -1,7 +1,7 @@
 ---
 id: elementor_widget_bouton
 title: Widget Bouton
-sidebar_label: Widget Bouton
+sidebar_label: 🔘 Widget Bouton
 sidebar_position: 5
 ---
 

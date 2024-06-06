@@ -1,7 +1,7 @@
 ---
 id: programmation-popup
 title: Apparition et suppression auto
-sidebar_label: Programmation de la Popup
+sidebar_label: ⏰ Programmation de la Popup
 ---
 
 ## Apparition et suppression automatique des Popups

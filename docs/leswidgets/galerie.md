@@ -1,7 +1,7 @@
 ---
 id: elementor_widget_galerie
 title: Widget Galerie
-sidebar_label: Widget Galerie
+sidebar_label: 🌅 Widget Galerie
 sidebar_position: 6
 ---
 

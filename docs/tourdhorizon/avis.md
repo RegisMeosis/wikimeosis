@@ -1,7 +1,7 @@
 ---
 id: avis
 title: Découverte de l’onglet Avis
-sidebar_label: Onglet Avis
+sidebar_label: 🌟 Onglet Avis
 sidebar_position: 8
 ---
 

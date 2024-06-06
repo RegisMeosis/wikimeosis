@@ -1,7 +1,7 @@
 ---
 id: actualites
 title: Découverte de l’onglet Actualités
-sidebar_label: Onglet Actualités
+sidebar_label: 📰 Onglet Actualités
 sidebar_position: 6
 ---
 

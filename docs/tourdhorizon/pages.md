@@ -1,7 +1,7 @@
 ---
 id: onglet_pages
 title: Découverte de l'Onglet Pages
-sidebar_label: Onglet Pages
+sidebar_label: 📄 Onglet Pages
 sidebar_position: 4
 ---
 

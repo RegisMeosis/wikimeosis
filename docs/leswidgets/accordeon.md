@@ -1,7 +1,7 @@
 ---
 id: elementor_widget_accordeon
 title: Widget Accordéon
-sidebar_label: Widget Accordéon
+sidebar_label: ➕ Widget Accordéon
 sidebar_position: 9
 ---
 

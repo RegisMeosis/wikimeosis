@@ -1,7 +1,7 @@
 ---
 id: onglet_messages
 title: Découverte de l'Onglet Messages
-sidebar_label: Onglet Messages
+sidebar_label: 💬 Onglet Messages
 sidebar_position: 7
 ---
 

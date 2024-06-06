@@ -1,7 +1,7 @@
 ---
 id: onglet_popups
 title: Découverte de l'Onglet Popups
-sidebar_label: Onglet Popups
+sidebar_label: 💥 Onglet Popups
 sidebar_position: 10
 ---
 

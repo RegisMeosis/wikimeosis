@@ -1,7 +1,7 @@
 ---
 id: gerer-modele-rapidement-popups
 title: Gérer un modèle rapidement
-sidebar_label: Gérer un modèle rapidement
+sidebar_label: 🔄 Gérer un modèle rapidement
 sidebar_position: 2
 ---
 

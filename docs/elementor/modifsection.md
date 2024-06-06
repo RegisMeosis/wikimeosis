@@ -1,7 +1,7 @@
 ---
 id: elementor_modifier_section
 title: Modifier une section
-sidebar_label: Modifier une section
+sidebar_label: 🖊️ Modifier une section
 sidebar_position: 4
 ---
 

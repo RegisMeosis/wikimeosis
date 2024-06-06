@@ -1,7 +1,7 @@
 ---
 id: edition_de_l_actualite
 title: Édition de l'Actualité
-sidebar_label: Édition de l'Actualité
+sidebar_label: 🖊️ Édition de l'Actualité
 sidebar_position: 4
 ---
 

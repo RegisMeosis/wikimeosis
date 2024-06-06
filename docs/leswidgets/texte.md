@@ -1,7 +1,7 @@
 ---
 id: elementor_widget_editeur_texte
 title: Widget Éditeur de texte
-sidebar_label: Widget Éditeur de texte
+sidebar_label: ✏️ Widget Éditeur de texte
 sidebar_position: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: jerico4.0
 title: Jerico 4.0
-sidebar_label: Jerico 4.0
+sidebar_label: ❓ Jerico 4.0
 sidebar_position: 1
 ---
 

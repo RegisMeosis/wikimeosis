@@ -1,7 +1,7 @@
 ---
 id: quest_ce_quune_actualite
 title: Qu'est-ce qu'une Actualité ?
-sidebar_label: Qu'est-ce qu'une Actualité ?
+sidebar_label: ❓ Qu'est-ce qu'une Actualité ?
 sidebar_position: 1
 ---
 

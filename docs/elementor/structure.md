@@ -1,7 +1,7 @@
 ---
 id: elementor_sections
 title: Les sections avec Elementor
-sidebar_label: Les sections
+sidebar_label: 📂 Les sections
 sidebar_position: 2
 ---
 

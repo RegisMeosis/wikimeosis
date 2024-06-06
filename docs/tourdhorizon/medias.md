@@ -1,7 +1,7 @@
 ---
 id: medias
 title: Découverte de l’Onglet Médias
-sidebar_label: Onglet Médias
+sidebar_label: 📷 Onglet Médias
 sidebar_position: 5
 ---
 

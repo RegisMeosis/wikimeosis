@@ -1,7 +1,7 @@
 ---
 id: gestion_ordre_elements
 title: Gérer l'ordre des éléments avec Elementor
-sidebar_label: Gérer l'ordre des éléments
+sidebar_label: 🛠️ Gérer l'ordre des éléments
 sidebar_position: 6
 ---
 

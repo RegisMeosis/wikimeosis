@@ -1,7 +1,7 @@
 ---
 id: elementor_integration_widgets
 title: Intégration des widgets dans une section
-sidebar_label: Intégration des widgets
+sidebar_label: 🔌 Intégration des widgets
 sidebar_position: 14
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: popups
 title: Les Popups
-sidebar_label: Les Popups
+sidebar_label: ❓ Les Popups
 sidebar_position: 1
 ---
 

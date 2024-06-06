@@ -1,7 +1,7 @@
 ---
 id: elementor_outils_retrouver
 title: Des outils pour mieux vous retrouver
-sidebar_label: Outils pour se retrouver
+sidebar_label: 🔍 Outils pour se retrouver
 sidebar_position: 7
 ---
 

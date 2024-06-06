@@ -1,7 +1,7 @@
 ---
 id: onglet_menu
 title: Découverte de l'Onglet Menu
-sidebar_label: Onglet Menu
+sidebar_label: 📑 Onglet Menu
 sidebar_position: 3
 ---
 

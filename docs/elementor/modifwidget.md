@@ -1,7 +1,7 @@
 ---
 id: elementor_modifier_widget
 title: Modifier un widget
-sidebar_label: Modifier un widget
+sidebar_label: 🛠️ Modifier un widget
 sidebar_position: 5
 ---
 

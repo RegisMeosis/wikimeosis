@@ -1,7 +1,7 @@
 ---
 id: elementor_resumer
 title: Elementor en quelques mots
-sidebar_label: Résumé Elementor
+sidebar_label: 📝 Résumé Elementor
 sidebar_position: 8
 ---
 

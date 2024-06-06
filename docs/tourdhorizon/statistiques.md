@@ -1,7 +1,7 @@
 ---
 id: onglet_statistiques
 title: Découverte de l'Onglet Statistiques
-sidebar_label: Onglet Statistiques
+sidebar_label: 📈 Onglet Statistiques
 sidebar_position: 2
 ---
 

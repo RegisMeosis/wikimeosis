@@ -1,7 +1,7 @@
 ---
 id: onglet_newsletter
 title: Découverte de l'Onglet Newsletter
-sidebar_label: Onglet Newsletter
+sidebar_label: 📧 Onglet Newsletter
 sidebar_position: 9
 ---
 

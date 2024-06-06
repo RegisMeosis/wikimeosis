@@ -1,7 +1,7 @@
 ---
 id: elementor_widget_boite_image
 title: Widget Boîte d’image
-sidebar_label: Widget Boîte d’image
+sidebar_label: 🖼️ Widget Boîte d’image
 sidebar_position: 9
 ---
 

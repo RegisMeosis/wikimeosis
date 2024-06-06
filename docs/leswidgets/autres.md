@@ -1,7 +1,7 @@
 ---
 id: elementor_autres_widgets
 title: et beaucoup d'autres...
-sidebar_label: Autres Widgets
+sidebar_label: ❓ Autres Widgets
 sidebar_position: 10
 ---
 

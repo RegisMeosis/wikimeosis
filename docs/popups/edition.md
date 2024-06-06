@@ -1,7 +1,7 @@
 ---
 id: edition-popup
 title: Trouver un nom avec du sens
-sidebar_label: Édition de la Popup
+sidebar_label: 🖊️ Édition de la Popup
 sidebar_position: 3
 ---
 

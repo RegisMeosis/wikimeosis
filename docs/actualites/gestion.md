@@ -1,7 +1,7 @@
 ---
 id: gerer_actualites
 title: Gérer les Actualités
-sidebar_label: Gérer les Actualités
+sidebar_label: 🛠️ Gérer les Actualités
 sidebar_position: 2
 ---
 

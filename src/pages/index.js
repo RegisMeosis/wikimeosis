@@ -27,7 +27,7 @@ export default function Home() {
       <main>
         <HeroSection />
         <IntroductionSection />
-        <FeaturesSection />
+        {/* <FeaturesSection /> */}
         <TutorialsSection />
         <FAQSection />
       </main>

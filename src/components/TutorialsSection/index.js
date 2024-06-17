@@ -2,61 +2,62 @@ import React from 'react';
 
 const TutorialsSection = () => {
   return (
+    
     <section className="py-20 bg-white dark:bg-gray-800 drop-shadow-xl">
+     <div className="w-800 h-20 bg-greencustom  m-auto mb-20"></div>
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-12">
-          <h2 className="text-3xl font-bold text-greencustom mb-4">Tutoriels pour Utiliser Jerico</h2>
+          <h2 className="text-3xl font-bold text-greencustom mb-4">Tutoriels pour Utilisez Jerico</h2>
           <p className="text-gray-700 dark:text-gray-300">
             Découvrez nos tutoriels détaillés pour maîtriser toutes les fonctionnalités de Jerico 4.0. Que vous soyez débutant ou utilisateur avancé, nos guides vous aideront à naviguer et à utiliser Jerico efficacement.
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         <TutorialCard
-        title="Comment se connecter à Jerico ?"
-        description="Suivez les étapes simples pour accéder à votre back office et commencer à travailler efficacement."
-        link="/docs/decouvrir/connexion"
-        emoji="🔑"
-        />
-        <TutorialCard
-        title="Édition de Contenu"
-        description="Apprenez comment modifier et personnaliser le contenu de votre site web pour le rendre unique."
-        link="/docs/category/elementor"
-        emoji="✏️"
-        />
-        <TutorialCard
-        title="Consultation des Statistiques"
-        description="Utiliser les données statistiques pour optimiser les performances de votre site."
-        link="/docs/tourdhorizon/onglet_statistiques"
-        emoji="📊"
-        />
-
+            title="Découvrir Jerico"
+            description="Apprenez à découvrir toutes les fonctionnalités de Jerico. Suivez les étapes pour accéder à votre back office et commencer à modifier."
+            link="/docs/category/découvrir-jerico"
+            emoji="🔑"
+          />
+          <TutorialCard
+            title="Tour d'horizon"
+            description="Obtenez un aperçu complet de Jerico et apprenez comment modifier et personnaliser le contenu de votre site web pour le rendre unique."
+            link="/docs/category/tour-dhorizon"
+            emoji="✏️"
+          />
+          <TutorialCard
+            title="Elementor"
+            description="Découvrez comment utiliser Elementor pour optimiser les performances de votre site en utilisant les données statistiques."
+            link="/docs/category/elementor"
+            emoji="📊"
+          />
         </div>
 
-        <div className="w-60 h-1 bg-greencustom  m-auto mt-10 rounded-full"></div>
+        <div className="w-60 h-1 bg-green-custom m-auto mt-10 rounded-full"></div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">
-        <TutorialCard
-        title="Gestion des Médias"
-        description="Apprenez à organiser, ajouter et gérer efficacement les images et les vidéos sur votre site."
-        link="/docs/leswidgets/elementor_widget_image"
-        emoji="🖼️"
-        />
-        <TutorialCard
-        title="Personnalisation de l'Apparence"
-        description="Explorez les options de personnalisation pour donner à votre site une apparence unique."
-        link="/docs/category/elementor"
-        emoji="🎨"
-        />
-        <TutorialCard
-        title="Ajouts des Actualités"
-        description="Découvrez comment ajouter facilement et rapidement des actualités."
-        link="/docs/category/actualités"
-        emoji="📰"
-        />
+          <TutorialCard
+            title="Widgets"
+            description="Apprenez à organiser, ajouter et gérer efficacement les widgets sur votre site web à l'aide de Jerico."
+            link="/docs/category/widgets"
+            emoji="🖼️"
+          />
+          <TutorialCard
+            title="Actualités"
+            description="Explorez les options avancées de personnalisation disponibles dans Jerico pour donner à votre site une apparence unique et attrayante."
+            link="/docs/category/actualités"
+            emoji="🎨"
+          />
+          <TutorialCard
+            title="Popups"
+            description="Découvrez comment créer et gérer des popups pour afficher des actualités importantes sur votre site web avec Jerico."
+            link="/docs/category/popups"
+            emoji="📰"
+          />
 
         </div>
         <div className="flex justify-center mt-8">
-          <a href="/guide" className="button-transition bg-greencustom  text-white font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:no-underline hover:text-white mt-5">
+          <a href="/docs/category/découvrir-jerico" className="button-transition bg-greencustom  text-white font-bold py-3 px-6 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:no-underline hover:text-white mt-5">
             Découvrir le guide
           </a>
         </div>

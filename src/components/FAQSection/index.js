@@ -10,7 +10,7 @@ const FAQSection = () => {
   return (
     <section className="py-20  bg-gradient-to-br from-greencustom via-greencustom2 to-greencustom3 drop-shadow-xl">
       <div className="max-w-3xl mx-auto text-center mb-12 drop-shadow-xl">
-        <h2 className="text-3xl font-bold text-white dark:text-gray-700">Questions Fréquemment Posées</h2>
+        <h2 className="text-3xl font-bold text-white dark:text-gray-700">FAQ : Service Technique</h2>
         <p className="text-gray-700 dark:text-black">
           Retrouvez ici les réponses aux questions les plus courantes.
         </p>

@@ -86,7 +86,8 @@ const config = {
       },
 
       colorMode: {
-        defaultMode: "light",
+        defaultMode: 'light', 
+        disableSwitch: true,
       },
 
       docs: {
@@ -114,7 +115,19 @@ const config = {
         items: [
           {
             to: "/docs/category/découvrir-jerico",
-            label: "Formation Jerico",
+            label: "Tutoriel interactif",
+            position: "left",
+          }, //topbar
+          
+            { to: '/VideoPage', label: 'Tutoriels vidéos', position: 'left' },
+          {
+            to: "/PDFPage",
+            label: "Tutoriel PDF",
+            position: "left",
+          }, //topbar
+          {
+            to: "https://www.meosis.fr/contact.html",
+            label: "Demander une formation",
             position: "left",
           }, //topbar
           {
@@ -122,6 +135,7 @@ const config = {
             label: "Meosis",
             position: "right",
           },
+          
         ],
       },
 

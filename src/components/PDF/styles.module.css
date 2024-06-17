@@ -1,0 +1,10 @@
+/* src/components/PDF/styles.module.css */
+.bodyOverlayDark {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .bodyOverlayBlur {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px); /* Pour Safari */
+  }
+  

@@ -9,12 +9,12 @@ const VideoList = ({ videos }) => {
         {videos.map((video, index) => (
           <motion.div
             key={index}
-            className="group overflow-hidden rounded-3xl shadow-lg hover:shadow-xl transition duration-300 ease-in-out"
+            className="group overflow-hidden rounded-3xl shadow-lg hover:shadow-xl transition duration-300 ease-in-out "
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            style={{ border: `2px solid #8dc641`, background: '#f0f0f0' }}
+            style={{ border: `2px solid #8dc641`, background: '#7DB234'}}
           >
-            <VideoItem title={video.title} thumbnail={video.thumbnail} videoUrl={video.videoUrl} />
+            <VideoItem title={video.title} thumbnail={video.thumbnail} videoUrl={video.videoUrl}   />
             <div className="p-4 bg-white">
               <motion.h2
                 initial={{ opacity: 0 }}

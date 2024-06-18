@@ -36,7 +36,7 @@ const VideoItem = ({ title, thumbnail, videoUrl }) => {
             Votre navigateur ne supporte pas cette vidéo.
           </video>
           <button
-            className="absolute top-0 right-0 m-2 p-2 bg-gray-800 text-white rounded-3xl z-10"
+            className="absolute top-0 right-0 m-2 p-2 bg-gris2 text-white rounded-3xl z-10"
             onClick={toggleVideo}
           >
             X
@@ -45,7 +45,7 @@ const VideoItem = ({ title, thumbnail, videoUrl }) => {
       )}
       {/* Titre sous l'image */}
       <div className="px-6 py-4">
-        <div className="font-bold text-xl mb-2">{title}</div>
+        <div className="font-normal text-xl mb-2 text-white">{title}</div>
       </div>
     </div>
   );

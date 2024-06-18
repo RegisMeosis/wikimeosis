@@ -8,6 +8,7 @@ module.exports = {
         'greencustom2': '#7DB234',
         'greencustom3': '#6EA027',
         'gris': '#666666',
+        'gris2': '#2f4250',
       },
       animation: {
         'fade-in': 'fadeIn 2s ease-in-out',

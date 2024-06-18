@@ -37,13 +37,13 @@ export default function HeroSection() {
       style={animationProps}
       className="relative flex items-center justify-center bg-gradient-to-br from-greencustom via-greencustom2 to-greencustom3 overflow-hidden"
     >
-      <div className="container mx-auto mt-20 px-4 md:px-0 flex flex-col md:flex-row items-center h-600">
+      <div className="container mb-10 mx-auto mt-20 px-4 md:px-0 flex flex-col md:flex-row items-center h-600">
         <div className="w-full md:w-1/2 text-center md:text-left">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 animate-slide-in drop-shadow-xl dark:text-gray-700">
             Guide d'Utilisation de Jerico 4.0
           </h1>
           <p className="text-lg text-white mb-8 animate-slide-in drop-shadow-xl dark:text-gray-700">
-            Simplifiez la Modification de votre Site Web avec le Back Office Jerico
+          Facilitez la Mise à Jour de votre Site Web grâce à Jerico.
           </p>
           <div className='grid grid-cols-1 md:grid-cols-4 gap-2'>
           <a

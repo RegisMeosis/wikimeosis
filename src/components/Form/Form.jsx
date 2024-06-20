@@ -28,7 +28,7 @@ const Form = () => {
 
     setIsSubmitting(true);
     try {
-      const url = 'http://localhost:5000/send-email';
+      const url = 'https://wiki.meosis.fr/send-email';
       const response = await axios.post(url, formData);
       console.log('Response:', response);
       setSubmitSuccess(true);

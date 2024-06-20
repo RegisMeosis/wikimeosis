@@ -20,7 +20,7 @@ const transporter = nodemailer.createTransport({
 });
 
 // Désactiver la vérification SSL (pour le développement uniquement)
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '1';
 
 // Route GET pour /test
 app.get('/test', (req, res) => {

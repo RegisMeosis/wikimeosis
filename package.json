@@ -7,7 +7,7 @@
     "start": "concurrently \"npm run start:docs\" \"npm run start:server\"",
     "start:docs": "docusaurus start",
     "start:server": "node server.js",
-    "build": "docusaurus build",
+    "build": "\"npm run start:server\" docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",

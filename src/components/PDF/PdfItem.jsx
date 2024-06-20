@@ -78,9 +78,21 @@ const PdfItem = ({ title, pdfUrl, previewImageUrl }) => {
             Voir le PDF
           </button>
         )}
+        <a
+          href={pdfUrl}
+          download
+          className="inline-block"
+        >
+          <button
+            className="ml-2 bg-greencustom hover:bg-greencustom2 hover:scale-105 transition-all text-white font-bold py-2 px-4 rounded-xl border-0"
+          >
+            Télécharger le PDF
+          </button>
+        </a>
       </div>
     </div>
   );
 };
 
 export default PdfItem;
+

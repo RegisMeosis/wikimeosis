@@ -22,6 +22,7 @@ const MyPdfPage = () => {
         title="Bienvenue dans la section PDF"
         description="Cette section vous permet de visualiser et de gérer facilement vos documents PDF. Le PDF présenté ici est une version de notre guide intuitif, conçu pour vous aider à modifier votre site web grâce à Jerico. Cliquez sur les aperçus pour afficher les PDF ou utilisez les boutons pour ouvrir les documents dans de nouveaux onglets."
         imageUrl="./img/3.png"
+        
       />
         <PdfList pdfs={pdfs} />
       </main>

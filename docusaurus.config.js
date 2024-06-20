@@ -125,15 +125,20 @@ const config = {
             label: "Tutoriel PDF",
             position: "left",
           }, //topbar
-          {
+          /*{
             to: "https://www.meosis.fr/contact.html",
             label: "Demander une formation",
             position: "left",
-          }, //topbar
+          },*/ //topbar
           {
             href: "https://www.meosis.fr/",
             label: "Meosis",
             position: "right",
+          },
+          {
+            to: "/FormPage",
+            label: "Demander une formation",
+            position: "left",
           },
           
         ],

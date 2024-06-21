@@ -29,21 +29,26 @@
     "concurrently": "^7.0.0",
     "cors": "^2.8.5",
     "framer-motion": "^11.2.10",
-    "https-browserify": "^1.0.0",
     "nodemailer": "^6.9.14",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-instantsearch": "^7.7.1",
     "react-intersection-observer": "^9.10.2",
-    "react-spring": "^9.7.3"
+    "react-spring": "^9.7.3",
+    "url": "^0.11.3"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.4.0",
     "@docusaurus/types": "^3.4.0",
     "autoprefixer": "^10.4.19",
+    "buffer": "^6.0.3",
     "concurrently": "^8.2.2",
+    "crypto-browserify": "^3.12.0",
+    "https-browserify": "^1.0.0",
     "postcss": "^8.4.38",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
     "tailwindcss": "^3.4.3"
   },
   "browserslist": {

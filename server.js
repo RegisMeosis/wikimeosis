@@ -10,7 +10,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 const transporter = nodemailer.createTransport({
-  host: 'wiki.meosis.fr',
+  host: 'plesk.meosis.fr',
   port: 465,
   secure: true,
   auth: {

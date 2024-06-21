@@ -31,7 +31,7 @@ app.post('/send-email', (req, res) => {
 
   const mailOptions = {
     from: 'contact@wiki.meosis.fr',
-    to: 'internet@meosis.fr',
+    to: 'vgassmann@meosis.fr',
     subject: 'Demande de rendez-vous pour une formation en ligne',
     text: `
       Nom: ${nom}

@@ -3,6 +3,7 @@
 .inputContainer {
     position: relative;
     margin: 20px;
+    margin-top: 40px !important;
   }
   
   .inputField {
@@ -11,7 +12,7 @@
     padding: 10px;
     font-size: 16px;
     border: none;
-    border-bottom: 2px solid #ccc;
+    border-bottom: 2px solid #ffffff;
     outline: none;
     background-color: transparent;
   }
@@ -21,7 +22,7 @@
     top: 0;
     left: 0;
     font-size: 16px;
-    color: rgba(204, 204, 204, 0);
+    color: rgba(255, 255, 255, 0);
     pointer-events: none;
     transition: all 0.3s ease;
   }
@@ -32,14 +33,14 @@
     left: 0;
     height: 2px;
     width: 0;
-    background-color: #4caf50;
+    background-color: #ffffff;
     transition: all 0.3s ease;
   }
   
   .inputField:focus + .inputLabel {
     top: -20px;
     font-size: 12px;
-    color: #4caf50;
+    color: #ffffff;
   }
   
   .inputField:focus + .inputLabel + .inputHighlight {
@@ -53,17 +54,26 @@
     letter-spacing: 1px;
     border-radius: 5px;
     border: 2px solid #ffffff;
-    background-color: #4caf50;
+    background-color: #45a04973;
     color: #ffffff;
     transition: all 0.3s ease;
+  
   }
   
   .btn:hover {
     background-color: #45a049;
+    scale: 1.05;
   }
   
   .btnDisabled {
     opacity: 0.6;
     cursor: not-allowed;
   }
+
+  .formGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem; /* Espacement entre les colonnes */
+  }
+  
   

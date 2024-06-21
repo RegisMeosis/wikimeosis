@@ -24,10 +24,10 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 app.get('/test', (req, res) => {
     res.send('la phrase de test');
-  });
+});
 
 app.post('/send-email', (req, res) => {
-  const { nom, prenom, email, telephone, formation, date, message } = req.body;
+  const { nom, prenom, email, telephone, societe, contrat, message } = req.body;
 
   const mailOptions = {
     from: 'contact@wiki.meosis.fr',
@@ -38,9 +38,9 @@ app.post('/send-email', (req, res) => {
       Prénom: ${prenom}
       Email: ${email}
       Téléphone: ${telephone}
-      Formation: ${formation}
-      Date: ${date}
-      Message: ${message}
+      Société: ${societe}
+      Numéro de contrat: ${contrat}
+      Message: ${message || 'Aucun message spécifié'}
     `,
   };
 

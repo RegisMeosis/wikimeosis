@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import { MailIcon } from '@heroicons/react/solid'; 
-import styles from './styles.modules.css'; 
+import { MailIcon } from '@heroicons/react/solid';
+import styles from './styles.modules.css';
 
 const Form = () => {
   const [formData, setFormData] = useState({
@@ -9,9 +9,9 @@ const Form = () => {
     prenom: '',
     email: '',
     telephone: '',
-    formation: '',
     date: '',
-    message: '',
+    societe: '', // Nouveau champ pour Société
+    contrat: '', // Nouveau champ pour Numéro de contrat
   });
 
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -32,6 +32,15 @@ const Form = () => {
       const response = await axios.post(url, formData);
       console.log('Response:', response);
       setSubmitSuccess(true);
+      setFormData({
+        nom: '',
+        prenom: '',
+        email: '',
+        telephone: '',
+        date: '',
+        societe: '', // Réinitialisation des champs après envoi réussi
+        contrat: '',
+      });
     } catch (error) {
       console.error('Erreur lors de l\'envoi de l\'email:', error);
     } finally {
@@ -44,6 +53,7 @@ const Form = () => {
       <h1 className="text-3xl font-bold text-center mb-8 text-white">Demande de rendez-vous pour une formation en ligne</h1>
       <form onSubmit={handleSubmit} className="space-y-4">
         <div className={`formGrid ${styles.formGrid}`}>
+          {/* Champs pour Nom, Prénom, Email, Téléphone */}
           <div className={styles.inputContainer}>
             <input
               placeholder='Nom'
@@ -100,46 +110,34 @@ const Form = () => {
             <label htmlFor="telephone" className={styles.inputLabel}>Téléphone</label>
             <div className={styles.inputHighlight}></div>
           </div>
+          {/* Champ Société */}
           <div className={styles.inputContainer}>
             <input
-              placeholder='Formation'
+              placeholder='Société'
               type="text"
-              id="formation"
-              name="formation"
-              value={formData.formation}
+              id="societe"
+              name="societe"
+              value={formData.societe}
               onChange={handleChange}
               required
               className={styles.inputField}
             />
-            <label htmlFor="formation" className={styles.inputLabel}>Formation</label>
+            <label htmlFor="societe" className={styles.inputLabel}>Société</label>
             <div className={styles.inputHighlight}></div>
           </div>
+          {/* Champ Numéro de contrat */}
           <div className={styles.inputContainer}>
             <input
-              placeholder='Date'
-              type="date"
-              id="date"
-              name="date"
-              value={formData.date}
+              placeholder='Numéro de contrat'
+              type="text"
+              id="contrat"
+              name="contrat"
+              value={formData.contrat}
               onChange={handleChange}
               required
               className={styles.inputField}
             />
-            <label htmlFor="date" className={styles.inputLabel}>Date préférée</label>
-            <div className={styles.inputHighlight}></div>
-          </div>
-          <div className={styles.inputContainer}>
-            <input
-              placeholder='Message'
-              id="message"
-              name="message"
-              value={formData.message}
-              onChange={handleChange}
-              required
-              rows="4"
-              className={styles.inputField}
-            ></input>
-            <label htmlFor="message" className={styles.inputLabel}>Message</label>
+            <label htmlFor="contrat" className={styles.inputLabel}>Numéro de contrat</label>
             <div className={styles.inputHighlight}></div>
           </div>
         </div>

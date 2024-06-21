@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { MailIcon } from '@heroicons/react/solid'; // Import des icônes de Heroicons
 import styles from './styles.modules.css'; // Importer le fichier de styles CSS modules
+const https = require('https');
 
 const Form = () => {
   const [formData, setFormData] = useState({
@@ -15,28 +16,32 @@ const Form = () => {
   });
 
   const [isSubmitting, setIsSubmitting] = useState(false);
-  const [submitSuccess, setSubmitSuccess] = useState(false);
+  const [notification, setNotification] = useState('');
 
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
   };
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = (e) => {
     e.preventDefault();
-    if (isSubmitting) return;
-
     setIsSubmitting(true);
-    try {
-      const url = 'https://wiki.meosis.fr/send-email';
-      const response = await axios.post(url, formData);
-      console.log('Response:', response);
-      setSubmitSuccess(true);
-    } catch (error) {
-      console.error('Erreur lors de l\'envoi de l\'email:', error);
-    } finally {
-      setIsSubmitting(false);
-    }
+    setNotification('');
+
+    const agent = new https.Agent({  
+      rejectUnauthorized: false
+    });
+
+    axios.post('https://wiki.meosis.fr/send-email', formData, { httpsAgent: agent })
+      .then((response) => {
+        setNotification('Email envoyé avec succès');
+        setIsSubmitting(false);
+      })
+      .catch((error) => {
+        console.error('Erreur lors de l\'envoi de l\'email:', error);
+        setNotification('Une erreur s\'est produite, veuillez réessayer.');
+        setIsSubmitting(false);
+      });
   };
 
   return (

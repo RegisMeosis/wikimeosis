@@ -27,7 +27,7 @@ app.get('/test', (req, res) => {
 });
 
 app.post('/send-email', (req, res) => {
-  const { nom, prenom, email, telephone, societe, contrat, message } = req.body;
+  const { nom, prenom, email, societe, contrat, message } = req.body;
 
   const mailOptions = {
     from: 'contact@wiki.meosis.fr',
@@ -37,7 +37,6 @@ app.post('/send-email', (req, res) => {
       Nom: ${nom}
       Prénom: ${prenom}
       Email: ${email}
-      Téléphone: ${telephone}
       Société: ${societe}
       Numéro de contrat: ${contrat}
       Message: ${message || 'Aucun message spécifié'}

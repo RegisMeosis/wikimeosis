@@ -75,7 +75,7 @@ const PdfItem = ({ title, pdfUrl, previewImageUrl }) => {
             className="bg-greencustom hover:bg-greencustom2 hover:scale-105 transition-all text-white font-bold py-2 px-4 rounded-xl border-0"
             onClick={togglePdf}
           >
-            Voir le PDF
+            Ouvrir le PDF
           </button>
         )}
         <a

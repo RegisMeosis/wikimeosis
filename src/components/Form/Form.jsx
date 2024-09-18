@@ -8,7 +8,6 @@ const Form = () => {
     nom: '',
     prenom: '',
     email: '',
-    telephone: '',
     date: '',
     societe: '', // Nouveau champ pour Société
     contrat: '', // Nouveau champ pour Numéro de contrat
@@ -36,7 +35,6 @@ const Form = () => {
         nom: '',
         prenom: '',
         email: '',
-        telephone: '',
         date: '',
         societe: '', // Réinitialisation des champs après envoi réussi
         contrat: '',
@@ -96,7 +94,7 @@ const Form = () => {
             <label htmlFor="email" className={styles.inputLabel}>Email</label>
             <div className={styles.inputHighlight}></div>
           </div>
-          <div className={styles.inputContainer}>
+          {/* <div className={styles.inputContainer}>
             <input
               placeholder='Téléphone'
               type="tel"
@@ -109,7 +107,7 @@ const Form = () => {
             />
             <label htmlFor="telephone" className={styles.inputLabel}>Téléphone</label>
             <div className={styles.inputHighlight}></div>
-          </div>
+          </div> */}
           {/* Champ Société */}
           <div className={styles.inputContainer}>
             <input

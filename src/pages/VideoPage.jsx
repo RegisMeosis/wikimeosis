@@ -7,19 +7,19 @@ const videos = [
   {
     title: 'Introduction au Guide Jerico',
     thumbnail: '/img/placeholder.jpg',
-    videoUrl: 'https://cdn.cluster014.hosting.meosis.fr/videos/meosis.fr/new-video-meosis.mp4',
+    videoUrl: 'https://cdn.cluster014.hosting.meosis.fr/videos/meosis.fr/FORMATION_JERICO_1.mp4',
     description : " Découvrez les fondamentaux du back office web avec le Guide Jerico. Ce guide complet vous accompagne à travers chaque étape pour maîtriser efficacement toutes les fonctionnalités de votre plateforme d'administration en ligne.",
   },
   {
     title: 'Navigation et Interface Utilisateur',
     thumbnail: '/img/placeholder.jpg',
-    videoUrl: 'https://cdn.cluster014.hosting.meosis.fr/videos/meosis.fr/new-video-meosis.mp4',
+    videoUrl: 'https://cdn.cluster014.hosting.meosis.fr/videos/meosis.fr/JERICO_PAGES_2.mp4',
     description: "Apprenez à naviguer aisément à travers l'interface utilisateur intuitive du Guide Jerico. Découvrez comment optimiser votre workflow quotidien et accéder rapidement aux outils nécessaires pour gérer votre site web avec fluidité."
   },
   {
     title: 'Navigation et Interface Utilisateur',
     thumbnail: '/img/placeholder.jpg',
-    videoUrl: 'https://cdn.cluster014.hosting.meosis.fr/videos/meosis.fr/new-video-meosis.mp4',
+    videoUrl: 'https://cdn.cluster014.hosting.meosis.fr/videos/meosis.fr/JERICO_ELEMENTOR_3.mp4',
     description: "Apprenez à naviguer aisément à travers l'interface utilisateur intuitive du Guide Jerico. Découvrez comment optimiser votre workflow quotidien et accéder rapidement aux outils nécessaires pour gérer votre site web avec fluidité."
   },
 ];

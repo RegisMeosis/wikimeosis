@@ -48,7 +48,7 @@ const config = {
     },
   ],
 
-  
+
 
   presets: [
     [
@@ -120,8 +120,11 @@ const config = {
             label: "Tutoriel interactif",
             position: "left",
           }, //topbar
-          
-            { to: '/VideoPage', label: 'Tutoriels vidéos', position: 'left' },
+          { 
+            to: '/VideoPage', 
+            label: 'Tutoriels vidéos', 
+            position: 'left' 
+          },
           {
             to: "/PDFPage",
             label: "Tutoriel PDF",
@@ -141,8 +144,9 @@ const config = {
             to: "/FormPage",
             label: "Demander une formation",
             position: "left",
+            className: "spe-nav-button"
           },
-          
+
         ],
       },
 

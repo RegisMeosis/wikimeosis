@@ -103,7 +103,21 @@ body {
   color: white;
 }
 
+.spe-nav-button {
+  background-color: #8fc740;
+  border-radius: 40px;
+  transition: all var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+}
 
+.navbar__link:hover.spe-nav-button, .navbar__link--active.spe-nav-button {
+  background-color: #ebedf0
+}
+
+@media (max-width: 1064px) {
+  .navbar__link {
+    font-size: 14px;
+  }
+}
 
 @tailwind base;
 @tailwind components;
